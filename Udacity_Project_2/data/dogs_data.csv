@@ -1,0 +1,2007 @@
+tweet_id,name,rating_numerator,rating_denominator,dog_class,predicted_breed,conf
+892420643555336193,Phineas,13.0,10.0,unclassified,Banana,0.07611
+892177421306343426,Tilly,13.0,10.0,unclassified,Chihuahua,0.323581
+891815181378084864,Archie,12.0,10.0,unclassified,Chihuahua,0.716012
+891689557279858688,Darla,13.0,10.0,unclassified,Labrador Retriever,0.1680859999999999
+891327558926688256,Franklin,12.0,10.0,unclassified,Basset,0.555712
+891087950875897856,Nameless,13.0,10.0,unclassified,Chesapeake Bay Retriever,0.425595
+890971913173991426,Jax,13.0,10.0,unclassified,Appenzeller,0.341703
+890729181411237888,Nameless,13.0,10.0,unclassified,Pomeranian,0.566142
+890609185150312448,Zoey,13.0,10.0,unclassified,Irish Terrier,0.4875739999999999
+890240255349198849,Cassie,14.0,10.0,doggo,Pembroke,0.511319
+890006608113172480,Koda,13.0,10.0,unclassified,Samoyed,0.957979
+889880896479866881,Bruno,13.0,10.0,unclassified,French Bulldog,0.377417
+889665388333682689,Nameless,13.0,10.0,puppo,Pembroke,0.966327
+889638837579907072,Ted,12.0,10.0,unclassified,French Bulldog,0.99165
+889531135344209921,Stuart,13.0,10.0,puppo,Golden Retriever,0.953442
+889278841981685760,Oliver,13.0,10.0,unclassified,Whippet,0.626152
+888917238123831296,Jim,12.0,10.0,unclassified,Golden Retriever,0.714719
+888804989199671297,Zeke,13.0,10.0,unclassified,Golden Retriever,0.46976
+888554962724278272,Ralphus,13.0,10.0,unclassified,Siberian Husky,0.700377
+888078434458587136,Gerald,12.0,10.0,unclassified,French Bulldog,0.995026
+887705289381826560,Jeffrey,13.0,10.0,unclassified,Basset,0.821664
+887517139158093824,Nameless,14.0,10.0,unclassified,Shopping Cart,0.0263208
+887473957103951883,Canela,13.0,10.0,unclassified,Pembroke,0.809197
+887343217045368832,Nameless,13.0,10.0,unclassified,Mexican Hairless,0.330741
+887101392804085760,Nameless,12.0,10.0,unclassified,Samoyed,0.733942
+886983233522544640,Maya,13.0,10.0,unclassified,Chihuahua,0.793469
+886736880519319552,Mingus,13.0,10.0,unclassified,Kuvasz,0.309706
+886680336477933568,Derek,13.0,10.0,unclassified,Car Wheel,0.0441726999999999
+886366144734445568,Roscoe,12.0,10.0,pupper,French Bulldog,0.999201
+886258384151887873,Waffles,13.0,10.0,unclassified,Pug,0.943575
+885984800019947520,Jimbo,12.0,10.0,unclassified,Blenheim Spaniel,0.972494
+885528943205470208,Maisey,13.0,10.0,unclassified,Pug,0.369275
+885167619883638784,Nameless,13.0,10.0,unclassified,Malamute,0.8124819999999999
+884925521741709313,Earl,12.0,10.0,unclassified,Italian Greyhound,0.259916
+884876753390489601,Lola,13.0,10.0,unclassified,Chow,0.822103
+884562892145688576,Kevin,13.0,10.0,unclassified,Pug,0.5464060000000001
+884441805382717440,Nameless,14.0,10.0,unclassified,Pembroke,0.993225
+884162670584377345,Yogi,12.0,10.0,doggo,German Shepherd,0.707046
+883838122936631299,Noah,12.0,10.0,unclassified,Doberman,0.610946
+883482846933004288,Bella,13.5,10.0,unclassified,Golden Retriever,0.943082
+883360690899218434,Grizzwald,13.0,10.0,floofer,Chow,0.987997
+883117836046086144,Nameless,13.0,10.0,unclassified,Golden Retriever,0.949562
+882992080364220416,Rusty,13.0,10.0,unclassified,Eskimo Dog,0.4667779999999999
+882762694511734784,Gus,12.0,10.0,pupper,Labrador Retriever,0.85005
+882627270321602560,Stanley,13.0,10.0,unclassified,Pembroke,0.542982
+882268110199369728,Alfy,13.0,10.0,unclassified,Golden Retriever,0.762211
+882045870035918850,Koko,13.0,10.0,unclassified,Golden Retriever,0.00694063
+881906580714921986,Rey,12.0,10.0,unclassified,Weimaraner,0.291539
+881666595344535552,Gary,13.0,10.0,unclassified,Saluki,0.529012
+881536004380872706,Nameless,14.0,10.0,pupper,Samoyed,0.281463
+881268444196462592,Elliot,12.0,10.0,unclassified,Ibex,0.0556607
+880935762899988482,Louis,13.0,10.0,unclassified,Traffic Light,0.0695338
+880872448815771648,Nameless,12.0,10.0,unclassified,Pembroke,0.791416
+880465832366813184,Bella,12.0,10.0,unclassified,Golden Retriever,0.913255
+880221127280381952,Jesse,12.0,10.0,unclassified,Chihuahua,0.238525
+880095782870896641,Nameless,11.0,10.0,unclassified,Miniature Pinscher,0.120298
+879862464715927552,Romeo,13.0,10.0,unclassified,Basset,0.813507
+879492040517615616,Bailey,12.0,10.0,unclassified,German Short-Haired Pointer,0.479896
+879415818425184262,Duddles,13.0,10.0,unclassified,English Springer,0.383404
+879376492567855104,Jack,12.0,10.0,unclassified,Labrador Retriever,0.0334961
+879050749262655488,Steven,11.0,10.0,unclassified,Egyptian Cat,0.132932
+879008229531029506,Beau,13.0,10.0,unclassified,Vizsla,0.960513
+878776093423087618,Snoopy,13.0,10.0,unclassified,Italian Greyhound,0.734684
+878281511006478336,Shadow,13.0,10.0,unclassified,Basset,0.32042
+878057613040115712,Emmy,14.0,10.0,unclassified,French Bulldog,0.839097
+877736472329191424,Aja,13.0,10.0,unclassified,Chesapeake Bay Retriever,0.8379559999999999
+877611172832227328,Nameless,14.0,10.0,pupper,Irish Setter,0.3647289999999999
+877556246731214848,Penny,12.0,10.0,unclassified,Basset,0.995368
+877316821321428993,Dante,13.0,10.0,unclassified,Saluki,0.5099670000000001
+877201837425926144,Nelly,12.0,10.0,unclassified,Pembroke,0.93112
+876838120628539392,Ginger,12.0,10.0,pupper,Bloodhound,0.575751
+876484053909872640,Benedict,13.0,10.0,unclassified,Golden Retriever,0.874566
+876120275196170240,Venti,13.0,10.0,unclassified,Bernese Mountain Dog,0.534327
+875747767867523072,Goose,13.0,10.0,unclassified,Labrador Retriever,0.799551
+875144289856114688,Nugget,13.0,10.0,unclassified,Siberian Husky,0.245048
+875021211251597312,Nameless,12.0,10.0,unclassified,West Highland White Terrier,0.7143189999999999
+874680097055178752,Cash,12.0,10.0,unclassified,Labrador Retriever,0.836052
+874296783580663808,Jed,13.0,10.0,pupper,Cocker Spaniel,0.437216
+874057562936811520,Nameless,12.0,10.0,unclassified,Flat-Coated Retriever,0.8321770000000001
+874012996292530176,Sebastian,13.0,10.0,puppo,Cardigan,0.806674
+873580283840344065,Nameless,13.0,10.0,unclassified,Newfoundland,0.678537
+873213775632977920,Sierra,12.0,10.0,pupper,Vizsla,0.6197819999999999
+872967104147763200,Nameless,12.0,10.0,doggo,Labrador Retriever,0.476913
+872820683541237760,Nameless,13.0,10.0,unclassified,Pug,0.99912
+872620804844003328,Monkey,13.0,10.0,unclassified,Cocker Spaniel,0.513191
+872486979161796608,Nameless,12.0,10.0,unclassified,Pembroke,0.931861
+872261713294495745,Harry,13.0,10.0,unclassified,Labrador Retriever,0.972019
+872122724285648897,Kody,12.0,10.0,unclassified,Pug,0.0667363
+871879754684805121,Lassie,13.0,10.0,unclassified,Shetland Sheepdog,0.969171
+871762521631449091,Rover,12.0,10.0,pupper,Labrador Retriever,0.921393
+871515927908634625,Napolean,12.0,10.0,doggo,Komondor,0.974781
+871032628920680449,Boomer,13.0,10.0,unclassified,Kelpie,0.398053
+870804317367881728,Nameless,11.0,10.0,unclassified,Television,0.0797293999999999
+870656317836468226,Cody,13.0,10.0,unclassified,Pembroke,0.945495
+870374049280663552,Zoey,13.0,10.0,unclassified,Golden Retriever,0.841001
+870308999962521604,Rumble,13.0,10.0,unclassified,Greater Swiss Mountain Dog,0.6227520000000001
+870063196459192321,Clifford,14.0,10.0,unclassified,Book Jacket,0.0437855
+869772420881756160,Dewey,13.0,10.0,unclassified,Pembroke,0.980148
+869702957897576449,Stanley,13.0,10.0,unclassified,Pembroke,0.993449
+869596645499047938,Scout,12.0,10.0,doggo,Chihuahua,0.955156
+869227993411051520,Gizmo,13.0,10.0,unclassified,Pembroke,0.664181
+868880397819494401,Walter,14.0,10.0,unclassified,French Bulldog,0.0999839
+868622495443632128,Nameless,13.0,10.0,unclassified,Labrador Retriever,0.868107
+868552278524837888,Cooper,12.0,10.0,unclassified,Whippet,0.378151
+867900495410671616,Nameless,12.0,10.0,unclassified,Labrador Retriever,0.522644
+867774946302451713,Harold,13.0,10.0,unclassified,Border Collie,0.661953
+867421006826221569,Shikha,12.0,10.0,puppo,Eskimo Dog,0.6164569999999999
+867072653475098625,Nameless,13.0,10.0,unclassified,Blenheim Spaniel,0.352946
+867051520902168576,Nameless,13.0,10.0,unclassified,Samoyed,0.4714029999999999
+866686824827068416,Lili,12.0,10.0,unclassified,Flat-Coated Retriever,0.51473
+866450705531457537,Jamesy,13.0,10.0,pupper,French Bulldog,0.905334
+866334964761202691,Coco,12.0,10.0,unclassified,Samoyed,0.984086
+865718153858494464,Boomer,13.0,10.0,unclassified,Golden Retriever,0.673664
+865359393868664832,Sammy,13.0,10.0,unclassified,Chesapeake Bay Retriever,0.832435
+865006731092295680,Nelly,13.0,10.0,unclassified,Pembroke,0.989882
+864873206498414592,Nameless,14.0,10.0,unclassified,Wreck,0.0559265
+864279568663928832,Meatball,12.0,10.0,unclassified,Bull Mastiff,0.668613
+864197398364647424,Paisley,13.0,10.0,unclassified,Golden Retriever,0.945905
+863907417377173506,Albus,13.0,10.0,unclassified,Weasel,0.123485
+863553081350529029,Neptune,13.0,10.0,unclassified,Eskimo Dog,0.41333
+863432100342583297,Belle,12.0,10.0,unclassified,Staffordshire Bullterrier,0.690517
+863079547188785154,Nameless,14.0,10.0,unclassified,Lakeland Terrier,0.275242
+863062471531167744,Quinn,13.0,10.0,unclassified,French Bulldog,0.935804
+862831371563274240,Zooey,13.0,10.0,unclassified,Australian Terrier,0.207281
+862722525377298433,Dave,11.0,10.0,unclassified,Basset,0.39333
+862457590147678208,Jersey,13.0,10.0,unclassified,Barber Chair,0.052625
+862096992088072192,Nameless,13.0,10.0,unclassified,Chow,0.677589
+861383897657036800,Hobbes,13.0,10.0,unclassified,Cardigan,0.771008
+861288531465048066,Nameless,13.0,10.0,unclassified,Bouvier Des Flandres,0.0826102
+861005113778896900,Burt,12.0,10.0,unclassified,German Shepherd,0.507951
+860924035999428608,Nameless,13.0,10.0,unclassified,Paper Towel,0.0111785
+860563773140209665,Lorenzo,13.0,10.0,unclassified,Cardigan,0.583936
+860524505164394496,Carl,13.0,10.0,unclassified,Bedlington Terrier,0.286558
+860276583193509888,Jordy,12.0,10.0,unclassified,Canoe,0.0707945
+860184849394610176,Nameless,14.0,10.0,unclassified,Orangutan,0.0599075
+859924526012018688,Milky,12.0,10.0,unclassified,French Bulldog,0.254587
+859851578198683649,Trooper,13.0,10.0,unclassified,Labrador Retriever,0.899086
+859607811541651456,Nameless,13.0,10.0,puppo,Golden Retriever,0.8955290000000001
+859196978902773760,Nameless,12.0,10.0,unclassified,Malamute,0.216163
+859074603037188101,Nameless,13.0,10.0,unclassified,Fountain,0.0660466
+858843525470990336,Nameless,13.0,10.0,doggo,Golden Retriever,0.57812
+858471635011153920,Sophie,13.0,10.0,unclassified,Pembroke,0.987407
+858107933456039936,Wyatt,12.0,10.0,unclassified,Golden Retriever,0.863874
+857989990357356544,Rosie,12.0,10.0,unclassified,French Bulldog,0.43258
+857746408056729600,Thor,13.0,10.0,unclassified,Labrador Retriever,0.919832
+857393404942143489,Nameless,13.0,10.0,unclassified,Malamute,0.8415969999999999
+857263160327368704,Oscar,13.0,10.0,unclassified,Samoyed,0.998021
+857029823797047296,Zeke,12.0,10.0,unclassified,Golden Retriever,0.968623
+856543823941562368,Callie,12.0,10.0,unclassified,Boston Bull,0.30691
+856526610513747968,Nameless,14.0,10.0,unclassified,Old English Sheepdog,0.798481
+856282028240666624,Cermet,14.0,10.0,unclassified,Chihuahua,0.8765430000000001
+855851453814013952,Nameless,13.0,10.0,puppo,Flat-Coated Retriever,0.321676
+855459453768019968,Nameless,12.0,10.0,unclassified,Blenheim Spaniel,0.389513
+854732716440526848,Marlee,12.0,10.0,unclassified,Pembroke,0.6955479999999999
+854482394044301312,Arya,13.0,10.0,unclassified,Chihuahua,0.260242
+854365224396361728,Einstein,13.0,10.0,unclassified,Pembroke,0.90708
+854120357044912130,Nameless,14.0,10.0,pupper,Black-And-Tan Coonhound,0.8548610000000001
+854010172552949760,Nameless,11.0,10.0,doggo,English Springer,0.3547329999999999
+853760880890318849,Alice,12.0,10.0,unclassified,Miniature Pinscher,0.292519
+853639147608842240,Nameless,13.0,10.0,unclassified,German Shepherd,0.509879
+853299958564483072,Rumpole,13.0,10.0,unclassified,Convertible,0.0862523
+852912242202992640,Benny,12.0,10.0,unclassified,Great Dane,0.7837649999999999
+852672615818899456,Aspen,12.0,10.0,unclassified,Golden Retriever,0.7112350000000001
+852553447878664193,Jarod,13.0,10.0,unclassified,Bloodhound,0.186498
+852311364735569921,Wiggles,13.0,10.0,unclassified,Go-Kart,5.59504e-07
+852226086759018497,General,14.0,10.0,unclassified,File,0.094112
+852189679701164033,Sailor,12.0,10.0,unclassified,Bernese Mountain Dog,0.4153739999999999
+851861385021730816,Nameless,10.0,10.0,unclassified,Pillow,0.0447253
+851591660324737024,Nameless,11.0,10.0,unclassified,Cardigan,0.394507
+851464819735769094,Iggy,14.0,10.0,unclassified,Crossword Puzzle,0.00348151
+851224888060895234,Snoop,13.0,10.0,unclassified,Standard Poodle,0.00568265
+850753642995093505,Kyle,11.0,10.0,unclassified,Pug,0.996952
+850380195714523136,Leo,13.0,10.0,unclassified,Yorkshire Terrier,0.2490119999999999
+850145622816686080,Riley,11.0,10.0,unclassified,Kelpie,0.10539
+850019790995546112,Boomer,12.0,10.0,pupper,Shetland Sheepdog,0.759907
+849776966551130114,Nameless,12.0,10.0,unclassified,Chihuahua,0.292092
+849412302885593088,Noosh,12.0,10.0,unclassified,Schipperke,0.907559
+849336543269576704,Nameless,11.0,10.0,unclassified,Restaurant,0.0271526
+849051919805034497,Kevin,13.0,10.0,unclassified,Sundial,0.000681115
+848690551926992896,Nameless,12.0,10.0,unclassified,Flat-Coated Retriever,0.8236479999999999
+848324959059550208,Odin,12.0,10.0,unclassified,Malamute,0.5445760000000001
+848212111729840128,Jerry,6.0,10.0,unclassified,Bedlington Terrier,0.333486
+847971574464610304,Nameless,13.0,10.0,unclassified,Toilet Tissue,0.0666558
+847962785489326080,Georgie,10.0,10.0,unclassified,Otter,0.0256787
+847842811428974592,Rontu,12.0,10.0,unclassified,Bernese Mountain Dog,0.951337
+847606175596138505,Cannon,12.0,10.0,unclassified,Cardigan,0.413688
+847251039262605312,Furzey,12.0,10.0,unclassified,Airedale,0.49538
+847157206088847362,Daisy,11.0,10.0,unclassified,Staffordshire Bullterrier,0.219609
+847116187444137987,Nameless,11.0,10.0,unclassified,American Staffordshire Terrier,0.113434
+846874817362120707,Tuck,13.0,10.0,unclassified,Shetland Sheepdog,0.450539
+846514051647705089,Barney,13.0,10.0,doggo,Golden Retriever,0.650003
+846153765933735936,Vixen,13.0,10.0,unclassified,Giant Schnauzer,0.346468
+846042936437604353,Jarvis,12.0,10.0,unclassified,Golden Retriever,0.96111
+845812042753855489,Nameless,13.0,10.0,unclassified,Samoyed,0.979803
+845677943972139009,Nameless,12.0,10.0,unclassified,Chow,0.8086810000000001
+845397057150107648,Mimosa,13.0,10.0,doggo,Dandie Dinmont,0.394404
+845306882940190720,Pickles,12.0,10.0,pupper,Irish Water Spaniel,0.567475
+844979544864018432,Nameless,13.0,10.0,unclassified,Shetland Sheepdog,0.000132068
+844973813909606400,Brady,12.0,10.0,unclassified,Labrador Retriever,0.742421
+844704788403113984,Luna,13.0,10.0,unclassified,Labrador Retriever,0.980213
+844580511645339650,Charlie,11.0,10.0,unclassified,Printer,0.0164562
+844223788422217728,Margo,12.0,10.0,unclassified,Labrador Retriever,0.71951
+843856843873095681,Sadie,12.0,10.0,unclassified,Labrador Retriever,0.92254
+843604394117681152,Hank,11.0,10.0,unclassified,Labrador Retriever,0.430583
+843235543001513987,Tycho,13.0,10.0,unclassified,Pembroke,0.958452
+842846295480000512,Charlie,13.0,10.0,unclassified,Labrador Retriever,0.461076
+842765311967449089,Indie,12.0,10.0,unclassified,Labrador Retriever,0.0293399
+842535590457499648,Winnie,13.0,10.0,unclassified,Pembroke,0.685084
+842163532590374912,George,12.0,10.0,unclassified,French Bulldog,0.891227
+842115215311396866,Bentley,12.0,10.0,unclassified,Chow,0.293493
+841680585030541313,Penny,12.0,10.0,unclassified,Chihuahua,0.547401
+841439858740625411,Nameless,14.0,10.0,unclassified,Labrador Retriever,0.0481999
+841314665196081154,Max,13.0,10.0,unclassified,Afghan Hound,0.903712
+841077006473256960,Dawn,12.0,10.0,unclassified,Brittany Spaniel,0.962985
+840696689258311684,Nameless,10.0,10.0,unclassified,Envelope,0.0068203
+840632337062862849,Maddie,12.0,10.0,unclassified,Golden Retriever,0.711148
+840370681858686976,Nameless,13.0,10.0,unclassified,Coffeepot,0.00242054
+840268004936019968,Monty,12.0,10.0,unclassified,Chesapeake Bay Retriever,0.8639870000000001
+839990271299457024,Sojourner,13.0,10.0,unclassified,Staffordshire Bullterrier,0.604938
+839549326359670784,Winston,12.0,10.0,unclassified,Norwich Terrier,0.05248
+839290600511926273,Nameless,10.0,10.0,unclassified,Screen,0.0753061
+839239871831150596,Odie,13.0,10.0,unclassified,Leonberg,0.927021
+838921590096166913,Arlo,13.0,10.0,unclassified,Border Terrier,0.664538
+838916489579200512,Nameless,15.0,10.0,unclassified,Envelope,0.00109309
+838561493054533637,Walter,13.0,10.0,unclassified,Kelpie,0.2165619999999999
+838476387338051585,Stanley,13.0,10.0,unclassified,Great Pyrenees,0.997692
+838083903487373313,Daisy,13.0,10.0,unclassified,Chow,0.800975
+837820167694528512,Nameless,12.0,10.0,pupper,Golden Retriever,0.887625
+837482249356513284,Waffles,13.0,10.0,unclassified,Carton,0.0561367
+837471256429613056,Vincent,12.0,10.0,unclassified,Norwegian Elkhound,0.976255
+837366284874571778,Lucy,13.0,10.0,unclassified,American Staffordshire Terrier,0.660085
+837110210464448512,Clark,13.0,10.0,pupper,Siberian Husky,0.767696
+836989968035819520,Mookie,12.0,10.0,unclassified,Toy Poodle,0.0058873
+836753516572119041,Meera,12.0,10.0,doggo,Schipperke,0.0115635
+836677758902222849,Oliver,11.0,10.0,unclassified,Snow Leopard,0.0796941
+836380477523124226,Ava,12.0,10.0,pupper,Grand Piano,0.0550861
+836260088725786625,Lucy,13.0,10.0,unclassified,Borzoi,0.564688
+836001077879255040,Nameless,13.0,10.0,unclassified,Samoyed,0.963558
+835574547218894849,Eli,11.0,10.0,unclassified,Staffordshire Bullterrier,0.6106550000000001
+835297930240217089,Ash,12.0,10.0,unclassified,Rottweiler,0.341276
+835264098648616962,Lola,12.0,10.0,unclassified,Chesapeake Bay Retriever,0.0875033
+835172783151792128,Nameless,12.0,10.0,unclassified,Border Collie,0.663138
+835152434251116546,Nameless,0.0,10.0,unclassified,American Staffordshire Terrier,0.0127309
+834931633769889797,Tucker,12.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.196476
+834786237630337024,Tobi,13.0,10.0,unclassified,Border Terrier,0.156276
+834574053763584002,Nameless,13.0,10.0,doggo,Golden Retriever,0.226564
+834458053273591808,Chester,12.0,10.0,unclassified,Rhodesian Ridgeback,0.4686189999999999
+834209720923721728,Wilson,12.0,10.0,unclassified,Golden Retriever,0.754799
+834167344700198914,Sunshine,11.0,10.0,unclassified,Water Buffalo,0.00113025
+834086379323871233,Lipton,12.0,10.0,unclassified,Labrador Retriever,0.0452626999999999
+833863086058651648,Bentley,12.0,10.0,unclassified,Kuvasz,0.4949689999999999
+833826103416520705,Charlie,13.0,10.0,unclassified,Chihuahua,0.438054
+833722901757046785,Bronte,13.0,10.0,unclassified,West Highland White Terrier,0.918144
+833479644947025920,Poppy,13.0,10.0,unclassified,Golden Retriever,0.727039
+833124694597443584,Gidget,12.0,10.0,pupper,Cardigan,0.7105229999999999
+832998151111966721,Rhino,13.0,10.0,doggo,Boxer,0.539036
+832769181346996225,Nameless,12.0,10.0,unclassified,Poncho,0.00297522
+832757312314028032,Willow,13.0,10.0,unclassified,Cardigan,0.160888
+832636094638288896,Orion,12.0,10.0,unclassified,Eskimo Dog,0.5250319999999999
+832397543355072512,Eevee,12.0,10.0,unclassified,Pekinese,0.988916
+832369877331693569,Charlie,11.0,10.0,unclassified,Kelpie,0.50469
+832273440279240704,Smiley,14.0,10.0,doggo,Pembroke,0.134081
+832032802820481025,Miguel,12.0,10.0,doggo,Whippet,0.601712
+831939777352105988,Emanuel,12.0,10.0,doggo,Pomeranian,0.153862
+831911600680497154,Kuyu,14.0,10.0,unclassified,Bloodhound,0.777562
+831670449226514432,Daisy,13.0,10.0,unclassified,Pembroke,0.6248020000000001
+831650051525054464,Nameless,13.0,10.0,unclassified,Eskimo Dog,0.530416
+831552930092285952,Dutch,13.0,10.0,unclassified,Chihuahua,0.257415
+831322785565769729,Pete,12.0,10.0,doggo,Old English Sheepdog,0.999715
+831315979191906304,Nameless,13.0,10.0,pupper,Briard,0.982755
+831309418084069378,Scooter,12.0,10.0,unclassified,Doberman,0.3693889999999999
+831262627380748289,Tucker,12.0,10.0,unclassified,Cocker Spaniel,0.263323
+830956169170665475,Reggie,12.0,10.0,unclassified,Kuvasz,0.451516
+830583320585068544,Lilly,13.0,10.0,unclassified,Labrador Retriever,0.908703
+830097400375152640,Samson,13.0,10.0,unclassified,Toy Poodle,0.442713
+829861396166877184,Mia,12.0,10.0,unclassified,Border Terrier,0.394486
+829501995190984704,Leo,12.0,10.0,unclassified,French Bulldog,0.950851
+829449946868879360,Nameless,11.0,10.0,doggo,Labrador Retriever,0.315163
+829374341691346946,Astrid,13.0,10.0,doggo,Staffordshire Bullterrier,0.757547
+829141528400556032,Malcolm,12.0,10.0,unclassified,Golden Retriever,0.57314
+829011960981237760,Dexter,13.0,10.0,unclassified,Boxer,0.312221
+828770345708580865,Alfie,13.0,10.0,unclassified,Chesapeake Bay Retriever,0.0338986
+828708714936930305,Fiona,10.0,10.0,unclassified,Mexican Hairless,0.00838837
+828650029636317184,Nameless,14.0,10.0,unclassified,Golden Retriever,0.649209
+828409743546925057,Mutt,12.0,10.0,unclassified,Toy Poodle,0.0180397999999999
+828408677031882754,Bear,12.0,10.0,unclassified,Weimaraner,0.1330329999999999
+828381636999917570,Doobert,14.0,10.0,doggo,Bedlington Terrier,0.3925349999999999
+828376505180889089,Beebop,13.0,10.0,unclassified,American Staffordshire Terrier,0.5230859999999999
+828372645993398273,Alexander,12.0,10.0,unclassified,Malamute,0.663047
+828046555563323392,Sailer,13.0,10.0,unclassified,Boathouse,0.0463925
+828011680017821696,Brutus,11.0,10.0,unclassified,American Staffordshire Terrier,0.936662
+827933404142436356,Kona,12.0,10.0,pupper,German Shepherd,0.8061149999999999
+827653905312006145,Boots,12.0,10.0,unclassified,Collie,0.285555
+827600520311402496,Tucker,13.0,10.0,unclassified,Pembroke,0.325638
+827324948884643840,Ralphie,12.0,10.0,unclassified,Golden Retriever,0.352486
+827199976799354881,Charlie,13.0,10.0,unclassified,Great Dane,0.8696809999999999
+826958653328592898,Loki,12.0,10.0,doggo,Golden Retriever,0.6173890000000001
+826848821049180160,Cupid,13.0,10.0,doggo,Great Pyrenees,0.858764
+826598365270007810,Pawnd,13.0,10.0,unclassified,French Bulldog,0.628119
+826476773533745153,Pilot,12.0,10.0,doggo,German Shepherd,0.7418600000000001
+826240494070030336,Nameless,11.0,10.0,unclassified,French Bulldog,0.903048
+826204788643753985,Nameless,13.0,10.0,doggo,Labrador Retriever,0.782058
+826115272272650244,Ike,13.0,10.0,unclassified,Golden Retriever,0.00233085
+825876512159186944,Mo,11.0,10.0,unclassified,Mousetrap,8.83283e-07
+825829644528148480,Toby,12.0,10.0,unclassified,Great Pyrenees,0.8534069999999999
+825535076884762624,Nameless,14.0,10.0,puppo,Rottweiler,0.681495
+825147591692263424,Sweet,13.0,10.0,unclassified,Pekinese,0.354823
+825026590719483904,Pablo,12.0,10.0,puppo,Eskimo Dog,0.524454
+824775126675836928,Scooter,12.0,10.0,unclassified,Border Terrier,0.610499
+824663926340194305,Wilson,13.0,10.0,unclassified,English Setter,0.526488
+824325613288833024,Nameless,13.0,10.0,pupper,Pembroke,0.990793
+824297048279236611,Nala,11.0,10.0,unclassified,Doormat,0.0222507
+823939628516474880,Cash,12.0,10.0,unclassified,Schipperke,0.234076
+823699002998870016,Winston,12.0,10.0,unclassified,Cairn,0.203999
+823581115634085888,Crawford,11.0,10.0,unclassified,German Shepherd,0.194044
+823322678127919110,Wyatt,11.0,10.0,unclassified,Chihuahua,0.00183635
+822975315408461824,Albus,12.0,10.0,unclassified,Pembroke,0.2331619999999999
+822872901745569793,Nameless,13.0,10.0,puppo,Lakeland Terrier,0.196015
+822859134160621569,Hobbes,12.0,10.0,unclassified,Malinois,0.332897
+822610361945911296,Nameless,12.0,10.0,unclassified,Cocker Spaniel,0.6644869999999999
+822489057087389700,Paisley,13.0,10.0,unclassified,Samoyed,0.4167689999999999
+822462944365645825,Gabe,14.0,10.0,pupper,Pomeranian,0.960199
+822244816520155136,Nameless,11.0,10.0,unclassified,Samoyed,0.585441
+821886076407029760,Jimison,13.0,10.0,unclassified,Golden Retriever,0.266238
+821765923262631936,Duchess,13.0,10.0,doggo,Golden Retriever,0.980071
+821522889702862852,Harlso,13.0,10.0,unclassified,Doberman,0.7635390000000001
+821407182352777218,Sundance,14.0,10.0,doggo,Irish Setter,0.5054960000000001
+821149554670182400,Luca,12.0,10.0,unclassified,German Shepherd,0.515933
+821107785811234820,Nameless,11.0,10.0,doggo,Pomeranian,0.85659
+821044531881721856,Flash,12.0,10.0,unclassified,Old English Sheepdog,0.14802
+820749716845686786,Sunny,13.0,10.0,unclassified,Golden Retriever,0.8380120000000001
+820690176645140481,Nameless,84.0,70.0,unclassified,West Highland White Terrier,0.872064
+820314633777061888,Nameless,14.0,10.0,unclassified,Gordon Setter,0.940724
+820078625395449857,Nameless,12.0,10.0,unclassified,Crane,1.7998e-06
+819952236453363712,Oliver,13.0,10.0,puppo,American Staffordshire Terrier,0.925505
+819924195358416896,Nameless,11.0,10.0,doggo,Tub,0.0491763
+819711362133872643,Howie,11.0,10.0,unclassified,Toy Poodle,0.0220094
+819588359383371776,Jazzy,13.0,10.0,unclassified,Cardigan,0.5479350000000001
+819347104292290561,Anna,12.0,10.0,unclassified,Rottweiler,0.909106
+819227688460238848,Finn,12.0,10.0,unclassified,Border Terrier,0.482452
+819006400881917954,Sunny,14.0,10.0,unclassified,Umbrella,0.00784954
+819004803107983360,Bo,14.0,10.0,unclassified,Standard Poodle,0.351308
+818627210458333184,Wafer,13.0,10.0,unclassified,Labrador Retriever,0.384188
+818614493328580609,Bear,12.0,10.0,unclassified,Chihuahua,0.450722
+818536468981415936,Tom,11.0,10.0,unclassified,Welsh Springer Spaniel,6.229489999999999e-05
+818259473185828864,Florence,12.0,10.0,unclassified,Miniature Schnauzer,0.367368
+818145370475810820,Autumn,11.0,10.0,unclassified,Golden Retriever,0.621931
+817827839487737858,Buddy,13.0,10.0,unclassified,Cocker Spaniel,0.387608
+817777686764523521,Dido,13.0,10.0,unclassified,Curly-Coated Retriever,0.733256
+817536400337801217,Eugene,12.0,10.0,unclassified,Pug,0.971358
+817423860136083457,Ken,13.0,10.0,unclassified,Samoyed,0.2013579999999999
+817415592588222464,Strudel,11.0,10.0,unclassified,Doberman,0.806163
+817171292965273600,Tebow,13.0,10.0,unclassified,Golden Retriever,0.295483
+817120970343411712,Nameless,13.0,10.0,unclassified,Saluki,0.568809
+817056546584727552,Chloe,11.0,10.0,unclassified,Kelpie,0.8644149999999999
+816816676327063552,Timber,12.0,10.0,unclassified,Malamute,0.668164
+816697700272001025,Binky,12.0,10.0,unclassified,Chihuahua,0.756992
+816450570814898180,Moose,13.0,10.0,unclassified,Nail,0.0312908999999999
+816336735214911488,Dudley,11.0,10.0,unclassified,Labrador Retriever,0.91933
+816091915477250048,Comet,12.0,10.0,unclassified,Pomeranian,0.967345
+815990720817401858,Jack,11.0,10.0,unclassified,Chihuahua,0.428756
+815966073409433600,Nameless,13.0,10.0,pupper,Tibetan Mastiff,0.506312
+815736392542261248,Akumi,11.0,10.0,unclassified,Border Collie,0.5489069999999999
+815639385530101762,Titan,12.0,10.0,unclassified,German Shepherd,0.8179529999999999
+815390420867969024,Nameless,13.0,10.0,unclassified,Paper Towel,0.0461474
+814986499976527872,Cooper,11.0,10.0,pupper,Dalmatian,0.999828
+814638523311648768,Olivia,12.0,10.0,unclassified,Golden Retriever,0.650814
+814530161257443328,Alf,12.0,10.0,unclassified,Miniature Poodle,0.626913
+814153002265309185,Oshie,12.0,10.0,unclassified,Golden Retriever,0.490068
+813910438903693312,Chubbs,11.0,10.0,doggo,Siberian Husky,0.6993550000000001
+813812741911748608,Gary,14.0,10.0,unclassified,French Bulldog,0.709146
+813800681631023104,Sky,12.0,10.0,unclassified,Malamute,0.501159
+813217897535406080,Atlas,13.0,10.0,unclassified,Samoyed,0.905972
+813202720496779264,Nameless,11.0,10.0,doggo,Cocker Spaniel,0.701852
+813187593374461952,Nameless,13.0,10.0,unclassified,Golden Retriever,0.888181
+813172488309972993,Eleanor,12.0,10.0,unclassified,Golden Retriever,0.0261930999999999
+813157409116065792,Layla,12.0,10.0,unclassified,Pembroke,0.0705671
+813142292504645637,Nameless,13.0,10.0,unclassified,Beagle,0.848735
+813127251579564032,Nameless,11.0,10.0,doggo,Norwegian Elkhound,0.4324159999999999
+813112105746448384,Toby,12.0,10.0,unclassified,Pembroke,0.140682
+813096984823349248,Rocky,11.0,10.0,doggo,Great Dane,0.128056
+813081950185472002,Baron,11.0,10.0,unclassified,Doberman,0.909951
+813066809284972545,Tyr,12.0,10.0,unclassified,Toy Terrier,0.7764
+813051746834595840,Bauer,13.0,10.0,unclassified,Golden Retriever,0.914804
+812781120811126785,Swagger,10.0,10.0,unclassified,Bull Mastiff,0.989316
+812709060537683968,Brandi,12.0,10.0,unclassified,Irish Setter,0.326873
+812503143955202048,Nameless,13.0,10.0,unclassified,Bubble,0.0105279
+812466873996607488,Mary,12.0,10.0,unclassified,Great Dane,0.0782055
+812372279581671427,Moe,13.0,10.0,unclassified,Golden Retriever,0.7848729999999999
+811985624773361665,Ted,11.0,10.0,unclassified,Staffordshire Bullterrier,0.6105729999999999
+811744202451197953,Halo,13.0,10.0,unclassified,Pekinese,0.386082
+811627233043480576,Augie,10.0,10.0,unclassified,Beagle,0.39628
+811386762094317568,Craig,11.0,10.0,pupper,Pembroke,0.804177
+810984652412424192,Sam,24.0,7.0,unclassified,Golden Retriever,0.8713420000000001
+810896069567610880,Hunter,11.0,10.0,unclassified,Flat-Coated Retriever,0.8208040000000001
+810657578271330305,Pavlov,11.0,10.0,unclassified,Malamute,0.753521
+810284430598270976,Phil,13.0,10.0,unclassified,Malamute,0.620768
+810254108431155201,Gus,12.0,10.0,unclassified,Staffordshire Bullterrier,0.292556
+809920764300447744,Nameless,10.0,10.0,unclassified,Norwich Terrier,0.397163
+809448704142938112,Nameless,12.0,10.0,unclassified,Greater Swiss Mountain Dog,0.375415
+809220051211603969,Kyro,12.0,10.0,unclassified,Pomeranian,0.8195110000000001
+809084759137812480,Wallace,11.0,10.0,unclassified,Vizsla,0.911412
+808838249661788160,Ito,13.0,10.0,unclassified,Rottweiler,0.36953
+808733504066486276,Nameless,12.0,10.0,pupper,Toy Poodle,0.0369271
+808501579447930884,Koda,12.0,10.0,unclassified,Airedale,0.454239
+808106460588765185,Nameless,12.0,10.0,pupper,Golden Retriever,0.426183
+808001312164028416,Cooper,12.0,10.0,unclassified,Labrador Retriever,0.730959
+807621403335917568,Ollie,14.0,10.0,pupper,Golden Retriever,0.873233
+807106840509214720,Stephan,13.0,10.0,unclassified,Chihuahua,0.50537
+807010152071229440,Lennon,12.0,10.0,unclassified,Golden Retriever,0.610807
+806629075125202948,Nameless,13.0,10.0,unclassified,Cocker Spaniel,0.0464032
+806542213899489280,Waffles,11.0,10.0,unclassified,Vizsla,0.938617
+806219024703037440,Nameless,11.0,10.0,unclassified,Chow,0.835102
+805932879469572096,Major,12.0,10.0,unclassified,Norwegian Elkhound,0.657967
+805826884734976000,Duke,12.0,10.0,unclassified,Siberian Husky,0.248926
+805520635690676224,Zeke,13.0,10.0,unclassified,Malinois,0.643147
+805487436403003392,Sansa,12.0,10.0,unclassified,Sundial,0.0691986
+805207613751304193,Shooter,12.0,10.0,unclassified,Pembroke,0.244705
+804738756058218496,Django,12.0,10.0,unclassified,Tibetan Mastiff,0.91579
+804026241225523202,Bo,13.0,10.0,unclassified,Guillotine,0.0152968999999999
+803773340896923648,Diogi,12.0,10.0,puppo,Miniature Pinscher,0.817066
+803638050916102144,Nameless,13.0,10.0,unclassified,Labrador Retriever,0.372776
+803380650405482500,Sonny,12.0,10.0,unclassified,File,0.00948954
+803276597545603072,Winston,11.0,10.0,unclassified,Pembroke,0.457086
+802952499103731712,Marley,12.0,10.0,unclassified,Chow,0.944032
+802572683846291456,Winnie,12.0,10.0,unclassified,Golden Retriever,0.610171
+802323869084381190,Severus,13.0,10.0,unclassified,Entertainment Center,0.0186435
+802265048156610565,Nameless,11.0,10.0,doggo,Labrador Retriever,0.8971620000000001
+802239329049477120,Loki,12.0,10.0,puppo,Eskimo Dog,0.482498
+801958328846974976,Ronnie,12.0,10.0,unclassified,Staffordshire Bullterrier,0.327887
+801538201127157760,Wallace,12.0,10.0,unclassified,Pembroke,0.550506
+801285448605831168,Nameless,10.0,10.0,unclassified,Convertible,0.0645338
+801167903437357056,Milo,13.0,10.0,unclassified,Cocker Spaniel,0.74022
+801115127852503040,Bones,12.0,10.0,doggo,Dalmatian,0.823356
+800751577355128832,Mauve,12.0,10.0,unclassified,Cocker Spaniel,0.771984
+800513324630806528,Chef,11.0,10.0,unclassified,Pembroke,0.8289040000000001
+800459316964663297,Nameless,12.0,10.0,pupper,Christmas Stocking,0.173229
+800388270626521089,Doc,12.0,10.0,floofer,Golden Retriever,0.35986
+800141422401830912,Peaches,13.0,10.0,unclassified,Golden Retriever,0.938048
+800018252395122689,Nameless,11.0,10.0,doggo,Barbell,0.14363
+799757965289017345,Sobe,13.0,10.0,doggo,Border Collie,0.442534
+799422933579902976,Longfellow,12.0,10.0,unclassified,Miniature Pinscher,0.58363
+799297110730567681,Jeffrey,11.0,10.0,unclassified,Malamute,0.985028
+799063482566066176,Mister,11.0,10.0,unclassified,Norfolk Terrier,0.334436
+798933969379225600,Iroh,12.0,10.0,unclassified,Siberian Husky,0.703224
+798925684722855936,Shadow,11.0,10.0,unclassified,West Highland White Terrier,0.539463
+798209839306514432,Cooper,13.0,10.0,unclassified,Pekinese,0.524583
+797971864723324932,Nameless,12.0,10.0,pupper,American Staffordshire Terrier,0.489845
+797545162159308800,Cassie,12.0,10.0,unclassified,Pembroke,0.954089
+797236660651966464,Pancake,12.0,10.0,unclassified,Collie,0.767005
+796865951799083009,Tyr,12.0,10.0,unclassified,Cardigan,0.8391290000000001
+796759840936919040,Romeo,11.0,10.0,unclassified,American Staffordshire Terrier,0.463996
+796484825502875648,Nameless,12.0,10.0,doggo,Cocker Spaniel,0.116924
+796387464403357696,Snicku,12.0,10.0,unclassified,Pekinese,0.461164
+796149749086875649,Ruby,11.0,10.0,unclassified,Golden Retriever,0.600276
+796116448414461957,Nameless,11.0,10.0,unclassified,Cardigan,0.700182
+796080075804475393,Yogi,12.0,10.0,unclassified,Chow,0.973846
+796031486298386433,Daisy,13.0,10.0,unclassified,Golden Retriever,0.893775
+795464331001561088,Nameless,13.0,10.0,doggo,Golden Retriever,0.193082
+795400264262053889,Brody,12.0,10.0,unclassified,Golden Retriever,0.925494
+795076730285391872,Bailey,11.0,10.0,unclassified,Swing,0.0446596
+794926597468000259,Mack,12.0,10.0,unclassified,Toy Poodle,0.0376618
+794332329137291264,Nimbus,12.0,10.0,unclassified,Samoyed,0.988307
+794205286408003585,Laika,14.0,10.0,pupper,Brass,0.0203711
+793962221541933056,Maximus,12.0,10.0,unclassified,Labrador Retriever,0.8616510000000001
+793845145112371200,Clark,13.0,10.0,unclassified,Old English Sheepdog,0.7652770000000001
+793601777308463104,Dobby,12.0,10.0,unclassified,Miniature Pinscher,0.538981
+793500921481273345,Fiona,12.0,10.0,unclassified,Golden Retriever,0.3261219999999999
+793286476301799424,Moreton,13.0,10.0,unclassified,Afghan Hound,0.2746369999999999
+793271401113350145,Dave,12.0,10.0,unclassified,Siberian Husky,0.2316949999999999
+793256262322548741,Nameless,12.0,10.0,unclassified,Basset,0.2076219999999999
+793241302385262592,Tucker,13.0,10.0,unclassified,Golden Retriever,0.559308
+793226087023144960,Juno,11.0,10.0,unclassified,Wire-Haired Fox Terrier,0.456047
+793210959003287553,Maude,10.0,10.0,unclassified,French Bulldog,0.0187590999999999
+793195938047070209,Lily,12.0,10.0,puppo,Labrador Retriever,0.654762
+793180763617361921,Newt,11.0,10.0,unclassified,Lakeland Terrier,0.266824
+793165685325201412,Benji,12.0,10.0,unclassified,Golden Retriever,0.946224
+793150605191548928,Nida,11.0,10.0,unclassified,Italian Greyhound,0.193869
+793135492858580992,Nameless,13.0,10.0,unclassified,Teddy,0.0465926
+793120401413079041,Robin,11.0,10.0,unclassified,Labrador Retriever,0.7249439999999999
+792913359805018113,Forrest,13.0,10.0,unclassified,Switch,0.0390086
+792883833364439040,Bailey,12.0,10.0,unclassified,Standard Poodle,8.31451e-05
+792773781206999040,Monster,12.0,10.0,unclassified,Yorkshire Terrier,0.912804
+792394556390137856,BeBe,12.0,10.0,unclassified,Cocker Spaniel,0.746387
+792050063153438720,Remus,11.0,10.0,unclassified,Komondor,0.942856
+791672322847637504,Nameless,13.0,10.0,unclassified,Golden Retriever,0.705092
+791406955684368384,Levi,12.0,10.0,unclassified,Pembroke,0.972629
+791312159183634433,Mabel,12.0,10.0,unclassified,Miniature Pinscher,0.892925
+790987426131050500,Misty,12.0,10.0,unclassified,Cocker Spaniel,0.349195
+790946055508652032,Betty,12.0,10.0,puppo,Golden Retriever,0.245773
+790698755171364864,Mosby,12.0,10.0,unclassified,Bernese Mountain Dog,0.996541
+790581949425475584,Duke,11.0,10.0,unclassified,Malinois,0.000152999
+790337589677002753,Maggie,12.0,10.0,unclassified,Pembroke,0.658808
+790277117346975746,Bruce,11.0,10.0,unclassified,Labrador Retriever,0.427742
+789986466051088384,Happy,12.0,10.0,unclassified,Golden Retriever,0.0785304999999999
+789628658055020548,Eli,13.0,10.0,unclassified,Chow,0.260702
+789599242079838210,Brownie,12.0,10.0,unclassified,Chesapeake Bay Retriever,0.8788219999999999
+789530877013393408,Rizzy,12.0,10.0,unclassified,Schipperke,0.363272
+789268448748703744,Stella,10.0,10.0,unclassified,Malamute,0.81286
+789137962068021249,Bo,12.0,10.0,unclassified,Chihuahua,0.746135
+788908386943430656,Lucy,11.0,10.0,unclassified,Golden Retriever,0.0340897
+788765914992902144,Butter,12.0,10.0,unclassified,Cocker Spaniel,0.500509
+788412144018661376,Dexter,11.0,10.0,unclassified,Golden Retriever,0.805238
+788178268662984705,Nameless,13.0,10.0,unclassified,Samoyed,0.73548
+788150585577050112,Leo,13.0,10.0,unclassified,Chow,0.814145
+788039637453406209,Nameless,12.0,10.0,unclassified,Limousine,0.101702
+787810552592695296,Frank,11.0,10.0,unclassified,Pug,0.362835
+787717603741622272,Tonks,13.0,10.0,puppo,German Shepherd,0.992339
+787397959788929025,Moose,11.0,10.0,unclassified,Chihuahua,0.900483
+787322443945877504,Lincoln,10.0,10.0,unclassified,Golden Retriever,0.1057029999999999
+786963064373534720,Rory,12.0,10.0,unclassified,Golden Retriever,0.915303
+786709082849828864,Logan,9.75,10.0,unclassified,Pomeranian,0.467321
+786664955043049472,Nameless,12.0,10.0,unclassified,Leonberg,0.512034
+786595970293370880,Dale,11.0,10.0,unclassified,Pembroke,0.709512
+786363235746385920,Rizzo,13.0,10.0,doggo,Golden Retriever,0.929266
+786233965241827333,Mattie,11.0,10.0,unclassified,Labrador Retriever,0.478193
+785927819176054784,Lucy,12.0,10.0,unclassified,Toy Poodle,0.00849262
+785872687017132033,Rusty,12.0,10.0,unclassified,Great Pyrenees,0.392108
+785639753186217984,Pinot,10.0,10.0,doggo,Echidna,0.00544197
+785533386513321988,Dallas,11.0,10.0,unclassified,Miniature Pinscher,0.4360229999999999
+785264754247995392,Doc,12.0,10.0,unclassified,Chow,0.056137
+785170936622350336,Hero,11.0,10.0,unclassified,Eskimo Dog,0.0274944
+784826020293709826,Rusty,13.0,10.0,unclassified,Chow,0.0903414
+784517518371221505,Frankie,11.0,10.0,unclassified,Malamute,0.757764
+784431430411685888,Stormy,12.0,10.0,unclassified,Miniature Poodle,0.744819
+783839966405230592,Riley,13.0,10.0,unclassified,Three-Toed Sloth,0.117464
+783821107061198850,Mairi,12.0,10.0,unclassified,Lakeland Terrier,0.265659
+783695101801398276,Loomis,12.0,10.0,unclassified,Chow,0.314265
+783466772167098368,Finn,11.0,10.0,unclassified,Chihuahua,0.789
+783391753726550016,Godi,13.0,10.0,unclassified,Norwegian Elkhound,0.87713
+783334639985389568,Dave,12.0,10.0,unclassified,Cardigan,0.593858
+783085703974514689,Earl,11.0,10.0,unclassified,Chesapeake Bay Retriever,0.240602
+782969140009107456,Cali,12.0,10.0,unclassified,Golden Retriever,0.171393
+782747134529531904,Deacon,11.0,10.0,doggo,Golden Retriever,0.560699
+782722598790725632,Penny,10.0,10.0,unclassified,Irish Setter,0.574557
+782598640137187329,Timmy,11.0,10.0,unclassified,Malamute,0.8408709999999999
+782305867769217024,Sampson,12.0,10.0,doggo,Briard,0.5044270000000001
+781955203444699136,Chipson,11.0,10.0,unclassified,Microwave,0.0336905
+781661882474196992,Nameless,5.0,10.0,unclassified,Pembroke,0.438087
+781524693396357120,Nameless,12.0,10.0,unclassified,Chesapeake Bay Retriever,0.0035225
+781251288990355457,Oakley,11.0,10.0,unclassified,Mexican Hairless,0.8877709999999999
+781163403222056960,Nameless,10.0,10.0,unclassified,Shetland Sheepdog,0.973841
+780931614150983680,Nameless,13.0,10.0,puppo,Chain,0.0364691
+780858289093574656,Dash,10.0,10.0,unclassified,Chesapeake Bay Retriever,0.488555
+780800785462489090,Koda,11.0,10.0,unclassified,Siberian Husky,0.951963
+780601303617732608,Hercules,12.0,10.0,unclassified,Saint Bernard,0.995143
+780543529827336192,Nameless,12.0,10.0,unclassified,Golden Retriever,0.628312
+780476555013349377,Nameless,12.0,10.0,unclassified,Pug,0.919255
+780459368902959104,Bear,11.0,10.0,unclassified,Great Dane,0.3824909999999999
+780192070812196864,Nameless,11.0,10.0,unclassified,Vizsla,0.144012
+779834332596887552,Scout,11.0,10.0,unclassified,Golden Retriever,0.99383
+779377524342161408,Nameless,12.0,10.0,pupper,Maze,0.0549814
+779123168116150273,Reggie,12.0,10.0,unclassified,Toy Poodle,0.43108
+779056095788752897,Nameless,13.0,10.0,unclassified,Chihuahua,0.721188
+778990705243029504,Jay,11.0,10.0,unclassified,Cocker Spaniel,0.7153510000000001
+778748913645780993,Mya,11.0,10.0,unclassified,Staffordshire Bullterrier,0.351434
+778650543019483137,Strider,10.0,10.0,unclassified,German Shepherd,0.515699
+778624900596654080,Penny,11.0,10.0,unclassified,Airedale,0.786089
+778408200802557953,Nameless,14.0,10.0,unclassified,Pembroke,0.8483620000000001
+778383385161035776,Nala,13.0,10.0,unclassified,Collie,0.3452659999999999
+778286810187399168,Stanley,11.0,10.0,unclassified,Boston Bull,0.3220699999999999
+778039087836069888,Nameless,12.0,10.0,pupper,German Shepherd,0.717776
+778027034220126208,Sophie,11.27,10.0,unclassified,Clumber,0.946718
+777885040357281792,Wesley,3.0,10.0,unclassified,Afghan Hound,0.123529
+777684233540206592,Nameless,12.0,10.0,unclassified,Cocker Spaniel,0.253442
+777621514455814149,Derek,12.0,10.0,unclassified,Chow,0.999823
+777189768882946048,Jeffrey,12.0,10.0,unclassified,Chihuahua,0.988412
+776813020089548800,Solomon,12.0,10.0,unclassified,Toy Poodle,0.51661
+776477788987613185,Huck,11.0,10.0,pupper,Labrador Retriever,0.8848389999999999
+776218204058357768,Nameless,13.0,10.0,floofer,Samoyed,0.940326
+776201521193218049,O'Malley,10.0,10.0,unclassified,Rottweiler,0.502228
+776113305656188928,Sampson,11.0,10.0,pupper,Paddlewheel,0.0174919
+776088319444877312,Nameless,10.0,10.0,unclassified,Pug,7.657020000000001e-05
+775842724423557120,Blue,12.0,10.0,unclassified,Chow,0.520022
+775733305207554048,Anakin,11.0,10.0,doggo,Rhinoceros Beetle,0.0278060999999999
+775729183532220416,Nameless,13.0,10.0,unclassified,Menu,0.00211536
+775364825476165632,Finley,11.0,10.0,doggo,Beagle,0.571229
+775085132600442880,Tucker,13.0,10.0,unclassified,Chow,0.316565
+774757898236878852,Finley,12.0,10.0,unclassified,Toy Poodle,0.7199409999999999
+774639387460112384,Sprinkles,10.0,10.0,unclassified,Walker Hound,0.6275930000000001
+774314403806253056,Nameless,14.0,10.0,unclassified,Eskimo Dog,0.5960449999999999
+773985732834758656,Winnie,11.0,10.0,pupper,Pug,0.10957
+773922284943896577,Heinrich,12.0,10.0,unclassified,Pomeranian,0.554331
+773704687002451968,Loki,12.0,10.0,unclassified,Silky Terrier,0.324251
+773670353721753600,Shakespeare,10.0,10.0,unclassified,Old English Sheepdog,0.969311
+773547596996571136,Chelsea,11.0,10.0,pupper,Norwegian Elkhound,0.372202
+773308824254029826,Bungalo,12.0,10.0,unclassified,Labrador Retriever,0.1514059999999999
+773247561583001600,Chip,10.0,10.0,unclassified,Miniature Pinscher,0.0833687999999999
+773191612633579521,Grey,12.0,10.0,unclassified,Blenheim Spaniel,0.427766
+772877495989305348,Nameless,11.0,10.0,unclassified,Norwegian Elkhound,0.138523
+772826264096874500,Roosevelt,11.0,10.0,unclassified,Basset,0.915351
+772581559778025472,Nameless,10.0,10.0,unclassified,Newfoundland,0.574345
+772193107915964416,Willem,12.0,10.0,pupper,Pembroke,0.3679449999999999
+772152991789019136,Nameless,10.0,10.0,unclassified,Golden Retriever,0.275318
+772117678702071809,Jack,12.0,10.0,unclassified,Labrador Retriever,0.217821
+772114945936949249,Finn,10.0,10.0,unclassified,Chihuahua,0.803293
+772102971039580160,Penny,11.0,10.0,unclassified,Pembroke,0.54178
+771770456517009408,Davey,11.0,10.0,unclassified,Papillon,0.53318
+771500966810099713,Dakota,12.0,10.0,unclassified,Labrador Retriever,0.833952
+771380798096281600,Fizz,11.0,10.0,unclassified,Collie,0.503728
+771136648247640064,Dixie,11.0,10.0,unclassified,Golden Retriever,0.297402
+771102124360998913,Charlie,12.0,10.0,unclassified,Labrador Retriever,0.568789
+771014301343748096,Nameless,7.0,10.0,unclassified,Macaque,0.0889253
+771004394259247104,Nameless,12.0,10.0,pupper,Pop Bottle,0.0488206
+770787852854652928,Winston,10.0,10.0,unclassified,Bernese Mountain Dog,0.787812
+770772759874076672,Sebastian,11.0,10.0,unclassified,Chow,0.979515
+770655142660169732,Nameless,11.0,10.0,unclassified,Paper Towel,0.0915715
+770414278348247044,Al,11.0,10.0,unclassified,Golden Retriever,0.0535696
+770293558247038976,Jackson,10.0,10.0,unclassified,Italian Greyhound,0.931668
+770069151037685760,Carbon,10.0,10.0,unclassified,Boston Bull,0.414965
+769940425801170949,Klein,12.0,10.0,unclassified,Miniature Pinscher,0.796313
+769695466921623552,Titan,13.0,10.0,unclassified,Pug,0.407117
+769212283578875904,DonDon,12.0,10.0,unclassified,Golden Retriever,0.166538
+768970937022709760,Kirby,12.0,10.0,unclassified,Pomeranian,0.182358
+768855141948723200,Jesse,11.0,10.0,unclassified,Chow,0.7202189999999999
+768609597686943744,Lou,10.0,10.0,unclassified,Basenji,0.183283
+768596291618299904,Oakley,12.0,10.0,unclassified,Great Pyrenees,0.729745
+768473857036525572,Chevy,11.0,10.0,unclassified,Labrador Retriever,0.73917
+768193404517830656,Gerald,8.0,10.0,doggo,Cheetah,0.094474
+767884188863397888,Tito,10.0,10.0,unclassified,Lakeside,0.0488096
+767754930266464257,Philbert,11.0,10.0,unclassified,Vizsla,0.307794
+767500508068192258,Louie,12.0,10.0,unclassified,Chow,0.483228
+767191397493538821,Nameless,13.0,10.0,doggo,Pier,0.0395323
+767122157629476866,Rupert,13.0,10.0,unclassified,Toy Poodle,0.873841
+766793450729734144,Rufus,10.0,10.0,unclassified,Beagle,0.451697
+766693177336135680,Brudge,11.0,10.0,unclassified,Doberman,0.948355
+766423258543644672,Shadoe,9.0,10.0,unclassified,Keeshond,0.995823
+766313316352462849,Oscar,12.0,10.0,unclassified,Toy Poodle,0.966896
+766069199026450432,Juno,12.0,10.0,unclassified,Redbone,0.484855
+766008592277377025,Angel,11.0,10.0,unclassified,Welsh Springer Spaniel,0.7281529999999999
+765719909049503744,Brat,12.0,10.0,unclassified,Golden Retriever,0.969518
+765669560888528897,Tove,12.0,10.0,unclassified,Beagle,0.993333
+765395769549590528,Zoey,13.0,10.0,unclassified,Pembroke,0.509491
+765371061932261376,Louie,11.0,10.0,pupper,Golden Retriever,0.829456
+765222098633691136,Gromit,10.0,10.0,unclassified,Dalmatian,0.556595
+764857477905154048,Aubie,12.0,10.0,unclassified,Bernese Mountain Dog,0.7920590000000001
+764259802650378240,Kota,10.0,10.0,unclassified,German Shepherd,0.973677
+763837565564780549,Alfie,11.0,10.0,unclassified,Malamute,0.375098
+763183847194451968,Clark,8.0,10.0,unclassified,Miniature Poodle,0.354674
+763103485927849985,Belle,10.0,10.0,unclassified,Chow,0.0390848
+762699858130116608,Leela,11.0,10.0,unclassified,Kelpie,0.519047
+762471784394268675,Glenn,12.0,10.0,unclassified,Samoyed,0.540276
+762464539388485633,Buddy,12.0,10.0,unclassified,Chow,0.999953
+762316489655476224,Scout,11.0,10.0,unclassified,Television,0.0333058
+762035686371364864,Nameless,14.0,10.0,unclassified,Theater Curtain,0.0462768
+761976711479193600,Shelby,12.0,10.0,unclassified,Labrador Retriever,0.475552
+761745352076779520,Nameless,11.0,10.0,unclassified,Lakeside,0.0997126
+761672994376806400,Nameless,10.0,10.0,unclassified,Pool Table,0.111565
+761599872357261312,Sephie,11.0,10.0,unclassified,Gordon Setter,0.240427
+761334018830917632,Bruce,10.0,10.0,unclassified,Norwegian Elkhound,0.8229360000000001
+761292947749015552,Bonaparte,11.0,10.0,unclassified,Standard Poodle,0.6608930000000001
+761227390836215808,Albert,10.0,10.0,unclassified,French Bulldog,0.280802
+761004547850530816,Bo,11.0,10.0,unclassified,Golden Retriever,0.735163
+760893934457552897,Wishes,11.0,10.0,doggo,Blenheim Spaniel,0.113992
+760656994973933572,Rose,11.0,10.0,unclassified,Golden Retriever,0.760546
+760641137271070720,Theo,12.0,10.0,unclassified,Sea Lion,0.0696519999999999
+760539183865880579,Atlas,12.0,10.0,unclassified,Samoyed,0.988013
+760290219849637889,Rocco,13.0,10.0,unclassified,Old English Sheepdog,0.3022
+760252756032651264,Fido,4.0,10.0,unclassified,Crane,0.09804
+760190180481531904,Sadie,10.0,10.0,unclassified,Maraca,0.0176477999999999
+759923798737051648,Nameless,10.0,10.0,unclassified,Labrador Retriever,0.324579
+759846353224826880,Kirby,11.0,10.0,unclassified,Sussex Spaniel,0.3553949999999999
+759793422261743616,Maggie,12.0,10.0,doggo,Golden Retriever,0.985876
+759557299618865152,Emma,10.0,10.0,unclassified,Golden Retriever,0.763333
+759447681597108224,Oakley,11.0,10.0,unclassified,Kuvasz,0.223148
+759197388317847553,Luna,12.0,10.0,unclassified,Kuvasz,0.5113409999999999
+759099523532779520,Toby,7.0,10.0,unclassified,Shetland Sheepdog,0.1290339999999999
+759047813560868866,Spencer,11.0,10.0,unclassified,Labrador Retriever,0.778546
+758854675097526272,Lilli,11.0,10.0,unclassified,Old English Sheepdog,0.0237914
+758828659922702336,Nameless,13.0,10.0,doggo,Chesapeake Bay Retriever,0.480048
+758740312047005698,Boston,12.0,10.0,unclassified,Chesapeake Bay Retriever,0.848514
+758474966123810816,Brandonald,11.0,10.0,unclassified,Pembroke,0.546145
+758467244762497024,Nameless,165.0,150.0,unclassified,Labrador Retriever,0.436377
+758405701903519748,Odie,10.0,10.0,unclassified,Chesapeake Bay Retriever,0.702954
+758355060040593408,Corey,11.0,10.0,unclassified,Pembroke,0.987643
+758041019896193024,Nameless,9.0,10.0,unclassified,Cardigan,0.0512653
+757741869644341248,Leonard,10.0,10.0,unclassified,Old English Sheepdog,0.128899
+757725642876129280,Beckham,11.0,10.0,unclassified,Labrador Retriever,0.128128
+757611664640446465,Cooper,12.0,10.0,unclassified,Bluetick,0.829259
+757597904299253760,Nameless,11.0,10.0,pupper,Purse,0.0513335
+757596066325864448,Nameless,4.0,10.0,unclassified,Wool,0.0260719
+757400162377592832,Nameless,13.0,10.0,unclassified,Golden Retriever,0.0878003
+757393109802180609,Nameless,10.0,10.0,doggo,Labrador Retriever,0.787125
+757354760399941633,Devón,8.0,10.0,unclassified,Italian Greyhound,0.914667
+756998049151549440,Oliver,11.0,10.0,unclassified,Golden Retriever,0.678555
+756939218950160384,Jax,12.0,10.0,pupper,Golden Retriever,0.790371
+756651752796094464,Gert,11.0,10.0,unclassified,Pembroke,0.294808
+756526248105566208,Nameless,13.0,10.0,doggo,Fountain,0.00123403
+756303284449767430,Nameless,11.0,10.0,unclassified,Golden Retriever,0.981652
+756288534030475264,Nameless,12.0,10.0,unclassified,French Bulldog,0.0324922
+756275833623502848,Nameless,10.0,10.0,puppo,Airedale,0.602957
+755955933503782912,Nameless,12.0,10.0,pupper,Pekinese,0.596882
+755206590534418437,Nameless,14.0,10.0,doggo,Carton,0.00453319
+755110668769038337,Watson,13.0,10.0,unclassified,Labrador Retriever,0.708974
+754856583969079297,Winnie,11.0,10.0,unclassified,Golden Retriever,0.8723850000000001
+754747087846248448,Keith,12.0,10.0,unclassified,Sliding Door,0.117872
+754482103782404096,Milo,10.0,10.0,unclassified,Shower Curtain,0.0176287999999999
+754449512966619136,Dex,11.0,10.0,unclassified,Beagle,0.858513
+754120377874386944,Nameless,10.0,10.0,unclassified,Chow,0.168909
+753655901052166144,Nameless,10.0,10.0,unclassified,Miniature Pinscher,0.456092
+753420520834629632,Nameless,11.0,10.0,unclassified,Rapeseed,0.0408089
+753398408988139520,Scout,12.0,10.0,unclassified,Whippet,0.163794
+753375668877008896,Hank,8.0,10.0,unclassified,Bluetick,0.360071
+753294487569522689,Ace,11.0,10.0,unclassified,Chow,0.194773
+753026973505581056,Tayzie,10.0,10.0,unclassified,Pembroke,0.868511
+752917284578922496,Grizzie,11.0,10.0,unclassified,German Shepherd,0.609283
+752682090207055872,Nameless,10.0,10.0,doggo,German Shepherd,0.299966
+752660715232722944,Nameless,10.0,10.0,unclassified,English Setter,0.0505118
+752519690950500352,Nameless,11.0,10.0,puppo,Labrador Retriever,1.00288e-05
+752334515931054080,Nameless,8.0,10.0,doggo,Bedlington Terrier,0.399163
+752173152931807232,Brody,12.0,10.0,unclassified,Labrador Retriever,0.527659
+751937170840121344,Ruby,11.0,10.0,unclassified,Lakeland Terrier,0.424168
+751830394383790080,Tucker,12.0,10.0,unclassified,Chow,0.703569
+751598357617971201,Toby,13.0,10.0,unclassified,Toy Poodle,0.757756
+751583847268179968,Nameless,5.0,10.0,doggo,Dalmatian,0.8683040000000001
+751538714308972544,Max,10.0,10.0,unclassified,Labrador Retriever,0.516257
+751456908746354688,Nameless,12.0,10.0,pupper,Golden Retriever,0.714409
+751251247299190784,Gilbert,10.0,10.0,unclassified,Walker Hound,0.178852
+751205363882532864,Nameless,12.0,10.0,unclassified,Labrador Retriever,0.947164
+751132876104687617,Cooper,10.0,10.0,puppo,Labrador Retriever,0.92939
+750868782890057730,Milo,11.0,10.0,pupper,Toy Poodle,0.912648
+750719632563142656,Meyer,12.0,10.0,unclassified,Pembroke,0.972587
+750506206503038976,Malcolm,8.0,10.0,pupper,Titi,0.0916851
+750429297815552001,Arnie,12.0,10.0,unclassified,Golden Retriever,0.964929
+750383411068534784,Zoe,9.0,10.0,pupper,Border Collie,0.672791
+750147208377409536,Nameless,13.0,10.0,unclassified,Pug,0.977765
+750132105863102464,Stewie,11.0,10.0,unclassified,Toy Poodle,0.478018
+750117059602808832,Calvin,10.0,10.0,unclassified,Shih-Tzu,0.814405
+750101899009982464,Lilah,11.0,10.0,unclassified,Golden Retriever,0.316704
+750086836815486976,Spanky,12.0,10.0,unclassified,Pug,0.978277
+750071704093859840,Nameless,10.0,10.0,pupper,Redbone,0.382113
+750056684286914561,Jameson,11.0,10.0,unclassified,Saluki,0.4844279999999999
+750041628174217216,Beau,13.0,10.0,unclassified,Labrador Retriever,0.252031
+750026558547456000,Jax,10.0,10.0,unclassified,Standard Poodle,0.258732
+750011400160841729,Piper,11.0,10.0,doggo,Boston Bull,0.0871498
+749996283729883136,Bo,12.0,10.0,unclassified,Old English Sheepdog,0.515319
+749981277374128128,Atticus,1776.0,10.0,unclassified,Sunglass,0.0507761999999999
+749774190421639168,Lucy,12.0,10.0,unclassified,Pekinese,0.8790120000000001
+749417653287129088,Finn,11.0,10.0,pupper,Papillon,0.772894
+749403093750648834,Nameless,10.0,10.0,unclassified,Chesapeake Bay Retriever,0.694541
+749395845976588288,George,10.0,10.0,unclassified,Pomeranian,0.973715
+749317047558017024,Blu,12.0,10.0,unclassified,Wire-Haired Fox Terrier,0.155144
+749064354620928000,Winston,11.0,10.0,unclassified,Pug,0.985222
+749036806121881602,Dietrich,8.0,10.0,unclassified,West Highland White Terrier,0.0195223
+748977405889503236,Nameless,10.0,10.0,unclassified,German Short-Haired Pointer,0.742216
+748932637671223296,Divine,13.0,10.0,unclassified,Borzoi,0.742912
+748705597323898880,Nameless,13.0,10.0,unclassified,Scuba Diver,0.121887
+748699167502000129,Tripp,11.0,10.0,unclassified,Pembroke,0.849029
+748692773788876800,Quizno,10.0,10.0,doggo,Oxcart,0.245653
+748575535303884801,Nameless,6.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.0864988
+748568946752774144,Cora,12.0,10.0,unclassified,Tibetan Terrier,0.328161
+748346686624440324,Nameless,10.0,10.0,unclassified,Borzoi,0.5964550000000001
+748324050481647620,Duke,11.0,10.0,unclassified,Shetland Sheepdog,0.880499
+748307329658011649,Nameless,7.0,10.0,unclassified,Mountain Tent,0.0292033
+747963614829678593,Nameless,10.0,10.0,pupper,Kelpie,0.307672
+747933425676525569,Nameless,11.0,10.0,unclassified,Samoyed,0.998201
+747885874273214464,Nameless,8.0,10.0,unclassified,Kuvasz,0.40845
+747844099428986880,Huxley,11.0,10.0,unclassified,Pembroke,0.360428
+747816857231626240,Nameless,4.0,10.0,unclassified,Pembroke,0.7689229999999999
+747600769478692864,Bookstore,8.5,10.0,unclassified,Chesapeake Bay Retriever,0.804363
+747594051852075008,Nameless,11.0,10.0,unclassified,Basenji,0.389136
+747512671126323200,Nameless,10.0,10.0,unclassified,Cardigan,0.111493
+747461612269887489,Nameless,10.0,10.0,unclassified,Ballplayer,0.0846722
+747219827526344708,Atticus,11.0,10.0,unclassified,Shetland Sheepdog,0.548018
+747204161125646336,Clark,10.0,10.0,unclassified,Rain Barrel,0.0392215
+747103485104099331,Nameless,11.0,10.0,unclassified,Labrador Retriever,0.991954
+746906459439529985,Nameless,0.0,10.0,unclassified,Space Shuttle,0.064807
+746872823977771008,Nameless,11.0,10.0,unclassified,Pembroke,0.540201
+746818907684614144,Nameless,13.0,10.0,unclassified,Ibizan Hound,0.101537
+746790600704425984,Nameless,10.0,10.0,unclassified,Boston Bull,0.936183
+746726898085036033,Abby,12.0,10.0,unclassified,Golden Retriever,0.256505
+746507379341139972,Shiloh,10.0,10.0,unclassified,Toy Poodle,0.508292
+746369468511756288,Nameless,9.0,10.0,unclassified,German Shepherd,0.622957
+746131877086527488,Gustav,10.0,10.0,unclassified,Chow,0.575637
+746056683365994496,Arlen,11.0,10.0,unclassified,Shetland Sheepdog,0.43332
+745789745784041472,Gus,10.0,10.0,unclassified,Pekinese,0.984267
+745712589599014916,Percy,7.0,10.0,unclassified,Chow,0.0627544999999999
+745433870967832576,Lenox,10.0,10.0,doggo,Basset,1.44895e-05
+745422732645535745,Nameless,9.0,10.0,unclassified,Labrador Retriever,0.6638
+745314880350101504,Sugar,12.0,10.0,unclassified,Fountain,0.0220518
+745057283344719872,Oliver,12.0,10.0,unclassified,Shetland Sheepdog,0.963985
+744995568523612160,Abby,9.0,10.0,puppo,Old English Sheepdog,0.427481
+744971049620602880,Indie,12.0,10.0,unclassified,Toy Poodle,0.497755
+744709971296780288,Harvey,10.0,10.0,unclassified,Shetland Sheepdog,0.234431
+744334592493166593,Blanket,11.0,10.0,unclassified,Samoyed,0.960543
+744234799360020481,Nameless,13.0,10.0,doggo,Labrador Retriever,0.825333
+743980027717509120,Geno,11.0,10.0,unclassified,Bull Mastiff,0.97573
+743895849529389061,Nameless,10.0,10.0,unclassified,Dalmatian,0.562315
+743609206067040256,Stark,10.0,10.0,unclassified,Weimaraner,0.982794
+743595368194129920,Harold,7.0,10.0,unclassified,Warthog,0.0188272
+743545585370791937,Bentley,11.0,10.0,unclassified,Standard Poodle,0.0605835
+743510151680958465,Beya,13.0,10.0,unclassified,Hippopotamus,0.0130947999999999
+743253157753532416,Kilo,10.0,10.0,puppo,Malamute,0.442612
+743222593470234624,Nameless,12.0,10.0,unclassified,Kuvasz,0.350629
+743210557239623680,Kayla,10.0,10.0,unclassified,Golden Retriever,0.930705
+742528092657332225,Maxaroni,10.0,10.0,unclassified,Snorkel,0.00933292
+742465774154047488,Nameless,14.0,10.0,pupper,Desktop Computer,0.000267579
+742423170473463808,Bell,12.0,10.0,unclassified,Pug,0.99731
+742385895052087300,Phil,11.0,10.0,unclassified,Cardigan,0.5669109999999999
+742161199639494656,Doug,12.0,10.0,unclassified,Parachute,0.000435974
+742150209887731712,Edmund,8.0,10.0,pupper,French Bulldog,0.0714143999999999
+741793263812808706,Nameless,10.0,10.0,unclassified,Kuvasz,0.311325
+741743634094141440,Aqua,11.0,10.0,pupper,Labrador Retriever,0.786089
+741438259667034112,Tucker,9.0,10.0,unclassified,Chesapeake Bay Retriever,0.292675
+741303864243200000,Theodore,12.0,10.0,unclassified,Chihuahua,0.7681560000000001
+741067306818797568,Nameless,12.0,10.0,pupper,Golden Retriever,0.843799
+740995100998766593,Leo,10.0,10.0,unclassified,Malamute,0.454363
+740711788199743490,Nameless,9.0,10.0,unclassified,Toy Poodle,0.388277
+740699697422163968,Chip,8.0,10.0,unclassified,Barrow,0.0195772
+740676976021798912,Baloo,11.0,10.0,pupper,Norwegian Elkhound,0.275225
+740373189193256964,Nameless,14.0,10.0,unclassified,Golden Retriever,0.8076439999999999
+740365076218183684,Nameless,10.0,10.0,unclassified,Mushroom,0.137516
+740359016048689152,Chase,9.0,10.0,unclassified,Golden Retriever,0.8636870000000001
+740214038584557568,Nameless,10.0,10.0,unclassified,Chesapeake Bay Retriever,0.586414
+739979191639244800,Nollie,12.0,10.0,unclassified,Irish Water Spaniel,0.2858
+739932936087216128,Rorie,10.0,10.0,unclassified,Redbone,0.243904
+739844404073074688,Simba,12.0,10.0,unclassified,Toy Poodle,0.342397
+739606147276148736,Benji,9.0,10.0,pupper,Blenheim Spaniel,0.933755
+739544079319588864,Nameless,10.0,10.0,unclassified,Labrador Retriever,0.967397
+739485634323156992,Kyle,6.0,10.0,unclassified,Walker Hound,0.640256
+739238157791694849,Nameless,13.0,10.0,doggo,Eskimo Dog,0.503372
+738885046782832640,Charles,11.0,10.0,unclassified,American Staffordshire Terrier,0.0155351
+738883359779196928,Nameless,10.0,10.0,unclassified,Labrador Retriever,0.691137
+738537504001953792,Bayley,11.0,10.0,puppo,Chow,0.808737
+738402415918125056,Nameless,10.0,10.0,unclassified,Cocker Spaniel,0.346695
+738184450748633089,Nameless,9.0,10.0,unclassified,Bedlington Terrier,0.289471
+738166403467907072,Axel,12.0,10.0,unclassified,Keeshond,0.8788860000000001
+738156290900254721,Storkson,10.0,10.0,unclassified,Pug,0.751758
+737826014890496000,Remy,10.0,10.0,unclassified,Vizsla,0.990391
+737800304142471168,Bella,10.0,10.0,unclassified,Malamute,0.374682
+737678689543020544,Nameless,11.0,10.0,unclassified,Pembroke,0.935307
+737445876994609152,Nameless,13.0,10.0,unclassified,Samoyed,0.400568
+737322739594330112,Lily,9.0,10.0,unclassified,Park Bench,0.0593119
+737310737551491075,Nameless,13.0,10.0,unclassified,Valley,0.0397584999999999
+736736130620620800,Chadrick,13.0,10.0,unclassified,Schipperke,0.545502
+736365877722001409,Rory,11.0,10.0,pupper,Toy Poodle,0.082606
+736225175608430592,Nameless,10.0,10.0,unclassified,Labrador Retriever,0.399217
+736010884653420544,Nameless,10.0,10.0,unclassified,Golden Retriever,0.553901
+735991953473572864,Maxaroni,11.0,10.0,unclassified,Cocker Spaniel,0.961643
+735648611367784448,Nameless,12.0,10.0,pupper,Pembroke,0.4625939999999999
+735635087207878657,Dakota,11.0,10.0,unclassified,Pug,0.8918709999999999
+735274964362878976,Nameless,11.0,10.0,unclassified,Quilt,0.00630206
+735256018284875776,Kellogg,8.0,10.0,doggo,Staffordshire Bullterrier,0.523191
+735137028879360001,Buckley,9.0,10.0,pupper,Walker Hound,0.413535
+734912297295085568,Jax,10.0,10.0,unclassified,Maltese Dog,0.847292
+734787690684657664,Nameless,13.0,10.0,unclassified,Golden Retriever,0.883991
+734776360183431168,Livvie,11.0,10.0,unclassified,Siberian Husky,0.304902
+733828123016450049,Terry,10.0,10.0,unclassified,Beagle,0.4723239999999999
+733822306246479872,Moose,10.0,10.0,unclassified,Lhasa,0.457356
+733482008106668032,Nameless,10.0,10.0,unclassified,French Bulldog,0.619382
+733460102733135873,Hermione,11.0,10.0,unclassified,Chow,0.931275
+733109485275860992,Nameless,12.0,10.0,doggo,Golden Retriever,0.945523
+732732193018155009,Ralpher,12.0,10.0,unclassified,Staffordshire Bullterrier,0.127969
+732726085725589504,Aldrick,11.0,10.0,unclassified,Pomeranian,0.961902
+732585889486888962,Nameless,10.0,10.0,unclassified,Staffordshire Bullterrier,0.843359
+732375214819057664,Kyle,11.0,10.0,doggo,Basset,0.000547053
+732005617171337216,Larry,11.0,10.0,unclassified,English Setter,0.677408
+731285275100512256,Solomon,12.0,10.0,unclassified,Pembroke,0.967103
+731156023742988288,Nameless,204.0,170.0,unclassified,King Penguin,0.0494438
+730924654643314689,Nameless,9.0,10.0,unclassified,Newfoundland,0.0862411
+730573383004487680,Rooney,10.0,10.0,pupper,American Staffordshire Terrier,0.810158
+730427201120833536,Crystal,11.0,10.0,unclassified,Eskimo Dog,0.682082
+730211855403241472,Ziva,11.0,10.0,unclassified,Pug,0.341663
+730196704625098752,Charles,6.0,10.0,unclassified,Toilet Seat,0.149497
+729854734790754305,Ollie,11.0,10.0,unclassified,Passenger Car,0.0526646999999999
+729838605770891264,Nameless,12.0,10.0,unclassified,Prison,0.013826
+729823566028484608,Stefan,13.0,10.0,unclassified,Kelpie,0.218408
+729463711119904772,Pupcasso,13.0,10.0,unclassified,German Shepherd,0.829307
+729113531270991872,Nameless,10.0,10.0,unclassified,Bannister,0.0480482
+728986383096946689,Puff,11.0,10.0,unclassified,Maltese Dog,0.95207
+728760639972315136,Nameless,13.0,10.0,unclassified,Pembroke,0.939134
+728751179681943552,Flurpson,10.0,10.0,unclassified,Saint Bernard,0.48205
+728653952833728512,Coleman,8.0,10.0,unclassified,Rotisserie,0.0412478
+728409960103686147,Wallace,10.0,10.0,unclassified,Saint Bernard,0.0942456
+728387165835677696,Enchilada,12.0,10.0,unclassified,Collie,0.266414
+728046963732717569,Raymond,11.0,10.0,unclassified,Newfoundland,0.255971
+728035342121635841,Nameless,12.0,10.0,pupper,Pomeranian,0.248664
+728015554473250816,Rueben,11.0,10.0,pupper,Cocker Spaniel,0.384559
+727685679342333952,Cilantro,12.0,10.0,unclassified,Border Collie,0.462408
+727644517743104000,Nameless,13.0,10.0,doggo,Great Pyrenees,0.457164
+727524757080539137,Nameless,10.0,10.0,pupper,Pomeranian,0.958834
+727314416056803329,Nameless,11.0,10.0,pupper,Toy Poodle,0.827469
+727286334147182592,Nameless,9.0,10.0,unclassified,Chihuahua,0.0705542
+727175381690781696,Karll,10.0,10.0,unclassified,Flat-Coated Retriever,0.656463
+726935089318363137,Sprout,12.0,10.0,unclassified,Toy Poodle,0.083749
+726887082820554753,Blitz,10.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.5159189999999999
+726828223124897792,Bloop,12.0,10.0,unclassified,Miniature Pinscher,0.2553269999999999
+726224900189511680,Nameless,9.0,10.0,unclassified,Standard Poodle,0.261112
+725842289046749185,Colby,12.0,10.0,unclassified,Toy Poodle,0.420463
+725786712245440512,Lillie,11.0,10.0,pupper,Chow,0.335761
+725729321944506368,Lola,12.0,10.0,unclassified,Boxer,0.599076
+724983749226668032,Fred,12.0,10.0,unclassified,Golden Retriever,0.67575
+724771698126512129,Nameless,11.0,10.0,doggo,German Short-Haired Pointer,0.835491
+724405726123311104,Ashleigh,10.0,10.0,pupper,Golden Retriever,0.240695
+724049859469295616,Kreggory,10.0,10.0,unclassified,Border Collie,0.581835
+724046343203856385,Sarge,10.0,10.0,unclassified,Boxer,0.8262719999999999
+724004602748780546,Luther,11.0,10.0,pupper,Pug,0.0188769
+723912936180330496,Sugar,12.0,10.0,unclassified,Samoyed,0.991772
+723688335806480385,Reginald,12.0,10.0,unclassified,Chow,0.0890102
+723673163800948736,Ivar,10.0,10.0,unclassified,Golden Retriever,0.83939
+723179728551723008,Jangle,8.0,10.0,unclassified,Norwegian Elkhound,0.0568505
+722974582966214656,Nameless,13.0,10.0,unclassified,Great Dane,0.2467619999999999
+722613351520608256,Schnitzel,12.0,10.0,unclassified,Labrador Retriever,0.5309149999999999
+721503162398597120,Panda,11.0,10.0,unclassified,Pomeranian,0.99775
+721001180231503872,Oliver,11.0,10.0,pupper,Samoyed,0.950053
+720785406564900865,Archie,12.0,10.0,unclassified,Chihuahua,0.8964219999999999
+720775346191278080,Berkeley,10.0,10.0,unclassified,Newfoundland,0.4899699999999999
+720415127506415616,Nameless,10.0,10.0,unclassified,Rottweiler,0.990312
+720389942216527872,Ralphé,11.0,10.0,unclassified,Pembroke,0.873977
+720340705894408192,Derek,10.0,10.0,pupper,Viaduct,0.065321
+720059472081784833,Charleson,9.0,10.0,unclassified,Mexican Hairless,0.451852
+720043174954147842,Neptune,11.0,10.0,unclassified,Samoyed,0.954517
+719991154352222208,Nameless,10.0,10.0,doggo,Golden Retriever,0.605304
+719704490224398336,Clyde,12.0,10.0,pupper,Bathtub,0.0355281999999999
+719551379208073216,Harnold,10.0,10.0,unclassified,Malamute,0.873233
+719367763014393856,Sid,11.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.0509709999999999
+719339463458033665,Lucy,10.0,10.0,unclassified,Golden Retriever,0.765778
+719332531645071360,Pippa,11.0,10.0,unclassified,Dandie Dinmont,0.224415
+718971898235854848,Sadie,10.0,10.0,unclassified,Golden Retriever,0.140394
+718939241951195136,Otis,12.0,10.0,unclassified,Pembroke,0.7663270000000001
+718631497683582976,Nameless,10.0,10.0,unclassified,Pomeranian,0.993718
+718613305783398402,Carper,11.0,10.0,unclassified,Labrador Retriever,0.58458
+718540630683709445,Nameless,10.0,10.0,unclassified,Maltese Dog,0.632289
+718460005985447936,Bowie,9.0,10.0,unclassified,Boston Bull,0.252781
+718454725339934721,Nameless,13.0,10.0,unclassified,Chime,0.0680916
+718246886998687744,Alexanderson,3.0,10.0,unclassified,Chihuahua,0.354488
+718234618122661888,Suki,11.0,10.0,unclassified,Malamute,0.370152
+717841801130979328,Barclay,11.0,10.0,unclassified,Brittany Spaniel,0.922876
+717790033953034240,Nameless,10.0,10.0,pupper,Cab,0.0348464
+717537687239008257,Nameless,11.0,10.0,unclassified,Golden Retriever,0.779356
+717421804990701568,Ebby,9.0,10.0,unclassified,Miniature Pinscher,0.286479
+717047459982213120,Flávio,12.0,10.0,unclassified,Golden Retriever,0.983548
+717009362452090881,Smokey,10.0,10.0,pupper,Siberian Husky,0.506154
+716802964044845056,Link,10.0,10.0,unclassified,Malinois,0.619577
+716791146589110272,Jennifur,11.0,10.0,unclassified,Pomeranian,0.468751
+716439118184652801,Bluebert,11.0,10.0,unclassified,Siberian Husky,0.396495
+716285507865542656,Stephanus,12.0,10.0,unclassified,Yorkshire Terrier,0.4304199999999999
+716080869887381504,Nameless,11.0,10.0,doggo,Golden Retriever,0.638625
+715928423106027520,Bubbles,11.0,10.0,unclassified,Pug,0.976685
+715733265223708672,Nameless,10.0,10.0,unclassified,Dandie Dinmont,0.740229
+715696743237730304,Toby,10.0,10.0,unclassified,Staffordshire Bullterrier,0.427836
+715680795826982913,Zeus,12.0,10.0,unclassified,Golden Retriever,0.990715
+715360349751484417,Bertson,11.0,10.0,unclassified,Padlock,0.0239704
+715342466308784130,Oscar,10.0,10.0,unclassified,West Highland White Terrier,0.597111
+715220193576927233,Nico,10.0,10.0,unclassified,Chihuahua,0.584026
+715200624753819648,Michelangelope,12.0,10.0,unclassified,Chihuahua,0.956787
+715009755312439296,Siba,12.0,10.0,unclassified,Chihuahua,0.142288
+714982300363173890,Calbert,9.0,10.0,unclassified,Brittany Spaniel,0.944376
+714957620017307648,Curtis,10.0,10.0,unclassified,Great Pyrenees,0.2515159999999999
+714631576617938945,Benedict,4.0,10.0,unclassified,Black-Footed Ferret,0.0999327
+714606013974974464,Nameless,12.0,10.0,unclassified,Norfolk Terrier,0.293007
+714258258790387713,Travis,9.0,10.0,unclassified,Collie,0.176758
+714251586676113411,Thumas,8.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.751962
+714214115368108032,Nameless,13.0,10.0,unclassified,Pug,0.533967
+714141408463036416,Nameless,10.0,10.0,unclassified,Labrador Retriever,0.586951
+713919462244790272,Kanu,12.0,10.0,unclassified,Siberian Husky,0.4632229999999999
+713900603437621249,Nameless,99.0,90.0,unclassified,Golden Retriever,0.371816
+713761197720473600,Piper,12.0,10.0,unclassified,Brittany Spaniel,0.797936
+713411074226274305,Nameless,11.0,10.0,unclassified,Great Pyrenees,0.720337
+713177543487135744,Lance,10.0,10.0,unclassified,Whippet,0.734244
+713175907180089344,Opie,10.0,10.0,unclassified,Malamute,0.4306239999999999
+712809025985978368,Stubert,10.0,10.0,unclassified,Labrador Retriever,0.8686709999999999
+712717840512598017,Nameless,10.0,10.0,unclassified,Great Pyrenees,0.732043
+712668654853337088,Sunny,10.0,10.0,unclassified,Labrador Retriever,0.829058
+712438159032893441,Kane,11.0,10.0,unclassified,Great Pyrenees,0.069457
+712097430750289920,Nameless,10.0,10.0,unclassified,Labrador Retriever,0.720481
+712092745624633345,Steven,7.0,10.0,unclassified,Three-Toed Sloth,0.11184
+712085617388212225,Olive,11.0,10.0,unclassified,Shih-Tzu,0.625129
+712065007010385924,Chester,6.0,10.0,unclassified,Pizza,0.0801683
+711998809858043904,Nameless,12.0,10.0,unclassified,Kuvasz,0.0598951
+711968124745228288,Winston,10.0,10.0,pupper,Cup,0.0883911999999999
+711743778164514816,Roosevelt,11.0,10.0,unclassified,Lakeland Terrier,0.4595149999999999
+711732680602345472,Nameless,10.0,10.0,unclassified,Ibizan Hound,0.334929
+711694788429553666,Nameless,13.0,10.0,unclassified,Water Buffalo,0.0389022
+711652651650457602,Gary,9.0,10.0,unclassified,Neck Brace,0.0163772
+711363825979756544,Nameless,11.0,10.0,unclassified,Pembroke,0.7509060000000001
+711306686208872448,Nameless,3.0,10.0,unclassified,Dandie Dinmont,0.0867925
+711008018775851008,Chuckles,11.0,10.0,pupper,French Bulldog,0.731405
+710997087345876993,Milo,12.0,10.0,unclassified,Malamute,0.28126
+710844581445812225,Staniel,10.0,10.0,unclassified,Pembroke,0.200407
+710833117892898816,Sora,12.0,10.0,unclassified,Pembroke,0.803742
+710658690886586372,Nameless,80.0,80.0,unclassified,Soft-Coated Wheaten Terrier,0.948617
+710588934686908417,Beemo,12.0,10.0,unclassified,Pembroke,0.982004
+710283270106132480,Gunner,11.0,10.0,unclassified,Shih-Tzu,0.932401
+710272297844797440,Nameless,11.0,10.0,unclassified,Old English Sheepdog,0.586307
+710269109699739648,Nameless,13.0,10.0,unclassified,Pug,0.415495
+710153181850935296,Lacy,11.0,10.0,unclassified,Cocker Spaniel,0.00271296
+710140971284037632,Tater,8.0,10.0,unclassified,Pekinese,0.95317
+710117014656950272,Nameless,11.0,10.0,pupper,Toy Poodle,0.802092
+709918798883774466,Watson,12.0,10.0,unclassified,Pembroke,0.956222
+709901256215666688,Nameless,12.0,10.0,unclassified,Umbrella,0.000224477
+709852847387627521,Nameless,12.0,10.0,unclassified,Chihuahua,0.945629
+709566166965075968,Olaf,12.0,10.0,unclassified,Chow,0.999837
+709556954897764353,Cecil,12.0,10.0,unclassified,Golden Retriever,0.790026
+709519240576036864,Vince,9.0,10.0,unclassified,Cocker Spaniel,0.4149819999999999
+709449600415961088,Karma,10.0,10.0,unclassified,Maltese Dog,0.780187
+709409458133323776,Billy,8.0,10.0,unclassified,Shetland Sheepdog,0.79745
+709225125749587968,Walker,11.0,10.0,unclassified,Labrador Retriever,0.271109
+709207347839836162,Penny,11.0,10.0,unclassified,Chihuahua,0.948323
+709198395643068416,Nameless,45.0,50.0,unclassified,Borzoi,0.4907829999999999
+709158332880297985,Rodney,10.0,10.0,unclassified,Siberian Husky,0.212957
+709042156699303936,Klevin,9.0,10.0,unclassified,Rottweiler,0.0681793
+708845821941387268,Nameless,9.0,10.0,pupper,Schipperke,0.74564
+708834316713893888,Malikai,10.0,10.0,unclassified,Eskimo Dog,0.283945
+708810915978854401,Mister,10.0,10.0,unclassified,Golden Retriever,0.976139
+708738143638450176,Coco,11.0,10.0,unclassified,Pomeranian,0.933457
+708711088997666817,Smokey,11.0,10.0,unclassified,German Short-Haired Pointer,0.0526946
+708479650088034305,Bear,13.0,10.0,unclassified,Shih-Tzu,0.218479
+708469915515297792,Bobble,11.0,10.0,unclassified,Chihuahua,0.748163
+708356463048204288,Oliver,10.0,10.0,unclassified,Pug,0.871283
+708349470027751425,River,11.0,10.0,unclassified,Basenji,0.187158
+708149363256774660,Jebberson,10.0,10.0,unclassified,Cardigan,0.350993
+708130923141795840,Nameless,11.0,10.0,unclassified,French Bulldog,0.710354
+708119489313951744,Cooper,9.0,10.0,unclassified,Norwich Terrier,0.2644829999999999
+708109389455101952,Remington,10.0,10.0,unclassified,Staffordshire Bullterrier,0.5161060000000001
+708026248782585858,Nameless,13.0,10.0,unclassified,Malinois,0.7864680000000001
+707995814724026368,Farfle,12.0,10.0,unclassified,Lumbermill,0.0504
+707969809498152960,Rufus,11.0,10.0,unclassified,Toy Poodle,0.908491
+707776935007539200,Sadie,11.0,10.0,unclassified,Miniature Pinscher,0.890426
+707741517457260545,Nameless,10.0,10.0,unclassified,Whippet,0.738371
+707693576495472641,Jiminus,7.0,10.0,unclassified,Washbasin,0.00929825
+707610948723478529,Harper,12.0,10.0,unclassified,Golden Retriever,0.383223
+707420581654872064,Keurig,4.0,10.0,unclassified,Kuvasz,0.149391
+707411934438625280,Nameless,11.0,10.0,pupper,Lakeland Terrier,0.7382770000000001
+707387676719185920,Clarkus,10.0,10.0,unclassified,Chihuahua,0.888468
+707377100785885184,Nameless,9.0,10.0,unclassified,Golden Retriever,0.637225
+707315916783140866,Finnegus,10.0,10.0,pupper,Bernese Mountain Dog,0.979235
+707297311098011648,Cassie,10.0,10.0,unclassified,Blenheim Spaniel,0.370717
+707059547140169728,Cupcake,11.0,10.0,unclassified,Samoyed,0.8973120000000001
+707038192327901184,Kathmandu,10.0,10.0,unclassified,Pug,0.642426
+707021089608753152,Tucker,12.0,10.0,unclassified,Cocker Spaniel,0.559658
+707014260413456384,Ellie,11.0,10.0,unclassified,Chihuahua,0.58378
+706901761596989440,Elliot,3.0,10.0,unclassified,Warthog,0.0113178
+706681918348251136,Katie,12.0,10.0,unclassified,Toy Poodle,0.717584
+706644897839910912,Shadow,9.0,10.0,unclassified,Chihuahua,0.132928
+706593038911545345,Nameless,10.0,10.0,unclassified,Pillow,0.0294087999999999
+706538006853918722,Oliver,11.0,10.0,unclassified,Chow,0.541794
+706516534877929472,Nameless,12.0,10.0,unclassified,Golden Retriever,0.7726850000000001
+706346369204748288,Koda,12.0,10.0,unclassified,Tibetan Mastiff,0.956462
+706310011488698368,Nameless,12.0,10.0,pupper,Pembroke,0.6981649999999999
+706291001778950144,Nameless,11.0,10.0,unclassified,Border Terrier,0.587101
+706265994973601792,Kara,11.0,10.0,unclassified,Papillon,0.743715
+706166467411222528,Dexter,7.0,10.0,unclassified,Samoyed,0.430418
+705975130514706432,Adele,10.0,10.0,pupper,Staffordshire Bullterrier,0.5877640000000001
+705970349788291072,Lucy,12.0,10.0,unclassified,Golden Retriever,0.776346
+705898680587526145,Max,10.0,10.0,unclassified,Collie,0.808276
+705786532653883392,Nameless,11.0,10.0,pupper,Labrador Retriever,0.148496
+705591895322394625,Nameless,11.0,10.0,unclassified,Basenji,0.877207
+705475953783398401,Zara,12.0,10.0,unclassified,Golden Retriever,0.908784
+705442520700944385,Cooper,12.0,10.0,unclassified,Great Pyrenees,0.309106
+705428427625635840,Ambrose,11.0,10.0,pupper,Chihuahua,0.774792
+705239209544720384,Jimothy,11.0,10.0,unclassified,Chihuahua,0.15795
+705223444686888960,Bode,9.0,10.0,unclassified,Chesapeake Bay Retriever,0.0773733
+705102439679201280,Terrenth,10.0,10.0,unclassified,Collie,0.457672
+705066031337840642,Reese,12.0,10.0,unclassified,Airedale,0.868658
+704871453724954624,Nameless,12.0,10.0,unclassified,Norfolk Terrier,0.689504
+704859558691414016,Nameless,10.0,10.0,pupper,Pug,0.284428
+704847917308362754,Nameless,12.0,10.0,unclassified,Golden Retriever,0.85724
+704819833553219584,Chesterson,7.0,10.0,unclassified,Wood Rabbit,0.000205869
+704761120771465216,Nameless,13.0,10.0,pupper,Chihuahua,0.100418
+704499785726889984,Nameless,12.0,10.0,unclassified,Chihuahua,0.3765409999999999
+704480331685040129,Lucia,11.0,10.0,unclassified,Samoyed,0.979206
+704364645503647744,Bisquick,12.0,10.0,unclassified,Pembroke,0.980695
+704347321748819968,Ralphson,10.0,10.0,pupper,Brittany Spaniel,0.0829173
+704113298707505153,Stanley,8.0,10.0,unclassified,Sea Lion,0.0158608
+704054845121142784,Nameless,60.0,50.0,unclassified,Great Pyrenees,0.6679390000000001
+703774238772166656,Nameless,10.0,10.0,unclassified,Labrador Retriever,0.990119
+703769065844768768,Nameless,10.0,10.0,unclassified,Boxer,0.838994
+703631701117943808,Bella,11.0,10.0,unclassified,Brass,0.0088821
+703611486317502464,Scooter,10.0,10.0,pupper,Pembroke,0.756441
+703425003149250560,Nameless,9.0,10.0,unclassified,Miniature Pinscher,0.2928659999999999
+703407252292673536,Nameless,10.0,10.0,pupper,Carton,0.0829238
+703382836347330562,Charlie,12.0,10.0,unclassified,Golden Retriever,0.945664
+703356393781329922,Socks,9.0,10.0,unclassified,Border Collie,0.894842
+703268521220972544,Nameless,12.0,10.0,pupper,Kuvasz,0.038243
+703079050210877440,Nameless,11.0,10.0,unclassified,Pembroke,0.778503
+703041949650034688,Nameless,10.0,10.0,unclassified,Sea Lion,0.0263642999999999
+702932127499816960,Chip,6.0,10.0,unclassified,Beaver,0.149605
+702684942141153280,Lucy,11.0,10.0,unclassified,Golden Retriever,0.514085
+702671118226825216,Rambo,10.0,10.0,unclassified,Bloodhound,0.381227
+702598099714314240,Sansa,11.0,10.0,pupper,Kelpie,0.2191789999999999
+702539513671897089,Nameless,12.0,10.0,unclassified,Pomeranian,0.714367
+702321140488925184,Nameless,12.0,10.0,unclassified,West Highland White Terrier,0.769159
+702276748847800320,Nameless,11.0,10.0,unclassified,Boston Bull,0.697303
+702217446468493312,Nameless,9.0,10.0,unclassified,Golden Retriever,0.242419
+701981390485725185,Fiji,12.0,10.0,unclassified,Pomeranian,0.491022
+701952816642965504,Rilo,11.0,10.0,unclassified,Toy Poodle,0.331707
+701889187134500865,Bilbo,11.0,10.0,unclassified,French Bulldog,0.902856
+701601587219795968,Coopson,10.0,10.0,unclassified,Chihuahua,0.993661
+701570477911896070,Yoda,9.0,10.0,unclassified,Yorkshire Terrier,0.90799
+701545186879471618,Millie,10.0,10.0,pupper,Border Collie,0.280893
+701214700881756160,Nameless,12.0,10.0,unclassified,Chihuahua,0.615163
+700890391244103680,Chet,11.0,10.0,unclassified,Schipperke,0.1223559999999999
+700864154249383937,Nameless,12.0,10.0,pupper,Kuvasz,0.8058569999999999
+700847567345688576,Crouton,10.0,10.0,unclassified,Rhodesian Ridgeback,0.2525139999999999
+700796979434098688,Daniel,7.0,10.0,unclassified,Bullfrog,0.0401775
+700747788515020802,Nameless,11.0,10.0,unclassified,Great Pyrenees,0.481333
+700518061187723268,Vincent,10.0,10.0,unclassified,American Staffordshire Terrier,0.569501
+700505138482569216,Kaia,12.0,10.0,unclassified,Norwegian Elkhound,0.160205
+700462010979500032,Murphy,6.0,10.0,unclassified,Pomeranian,0.110268
+700167517596164096,Dotsy,10.0,10.0,unclassified,Beagle,0.1625849999999999
+700151421916807169,Nameless,11.0,10.0,pupper,Italian Greyhound,0.176838
+700143752053182464,Nameless,10.0,10.0,pupper,Golden Retriever,0.53246
+700062718104104960,Eazy,6.0,10.0,unclassified,Eel,0.075371
+700029284593901568,Coops,10.0,10.0,unclassified,West Highland White Terrier,0.726571
+700002074055016451,Thumas,9.0,10.0,unclassified,Chihuahua,0.369488
+699801817392291840,Cooper,11.0,10.0,pupper,Golden Retriever,0.808978
+699788877217865730,Nala,12.0,10.0,unclassified,Border Terrier,0.35506
+699779630832685056,Nameless,10.0,10.0,unclassified,Malinois,0.706038
+699775878809702401,Fillup,11.0,10.0,unclassified,Dandie Dinmont,0.271683
+699691744225525762,Dave,5.0,10.0,unclassified,Dugong,0.00576795
+699446877801091073,Archie,12.0,10.0,unclassified,Pembroke,0.9694
+699434518667751424,Nameless,12.0,10.0,pupper,Golden Retriever,0.836572
+699423671849451520,Nameless,10.0,10.0,unclassified,Pug,0.99786
+699413908797464576,Miley,11.0,10.0,unclassified,Samoyed,0.517479
+699370870310113280,Calbert,11.0,10.0,unclassified,Cairn,0.337557
+699323444782047232,Nameless,10.0,10.0,unclassified,Labrador Retriever,0.309696
+699088579889332224,Charl,3.0,10.0,unclassified,Common Iguana,0.0617826
+699079609774645248,Reagan,8.0,10.0,unclassified,Schipperke,0.667324
+699072405256409088,Nameless,12.0,10.0,unclassified,Shih-Tzu,0.599587
+699036661657767936,Nameless,13.0,10.0,unclassified,Chihuahua,0.2229429999999999
+698989035503689728,Oliver,13.0,10.0,unclassified,Norfolk Terrier,0.24634
+698953797952008193,CeCe,11.0,10.0,unclassified,Italian Greyhound,0.382378
+698907974262222848,Nameless,10.0,10.0,unclassified,German Short-Haired Pointer,0.983131
+698710712454139905,Cuddles,10.0,10.0,unclassified,Samoyed,0.329895
+698703483621523456,Rusty,7.0,10.0,unclassified,Brittany Spaniel,0.931963
+698635131305795584,Nameless,12.0,10.0,unclassified,Samoyed,0.158464
+698549713696649216,Claude,9.0,10.0,unclassified,French Bulldog,0.998544
+698355670425473025,Jessiga,10.0,10.0,unclassified,Pug,0.990191
+698342080612007937,Maximus,11.0,10.0,unclassified,Boxer,0.8830479999999999
+698262614669991936,Franklin,11.0,10.0,unclassified,Italian Greyhound,0.107948
+698195409219559425,Beau,9.0,10.0,unclassified,Labrador Retriever,0.64369
+698178924120031232,Lily,10.0,10.0,unclassified,Chesapeake Bay Retriever,0.3518679999999999
+697995514407682048,Nameless,11.0,10.0,unclassified,Staffordshire Bullterrier,0.2802219999999999
+697990423684476929,Doug,11.0,10.0,unclassified,Pembroke,0.984783
+697943111201378304,Cassie,10.0,10.0,unclassified,Great Dane,0.126924
+697881462549430272,Carter,10.0,10.0,unclassified,Toilet Tissue,0.0980291
+697616773278015490,Nameless,11.0,10.0,pupper,Lhasa,0.521931
+697596423848730625,Nameless,11.0,10.0,pupper,Shetland Sheepdog,0.621668
+697575480820686848,Ole,8.0,10.0,unclassified,Whippet,0.119805
+697482927769255936,Blipson,11.0,10.0,unclassified,Weasel,0.105442
+697463031882764288,Nameless,44.0,40.0,unclassified,Labrador Retriever,0.999885
+697270446429966336,Bentley,10.0,10.0,unclassified,Toy Poodle,0.880014
+697259378236399616,Nameless,8.0,10.0,unclassified,Great Dane,0.999223
+697255105972801536,Charlie,10.0,10.0,unclassified,Great Dane,0.173989
+697242256848379904,Oakley,10.0,10.0,unclassified,Eskimo Dog,0.0635328
+696900204696625153,Rosie,12.0,10.0,unclassified,Chihuahua,0.2977349999999999
+696894894812565505,Nameless,9.0,10.0,unclassified,Appenzeller,0.665628
+696886256886657024,Nameless,12.0,10.0,unclassified,Kuvasz,0.383941
+696877980375769088,Misty,9.0,10.0,pupper,Vacuum,0.119218
+696754882863349760,Reptar,10.0,10.0,unclassified,Toy Poodle,0.0983781
+696713835009417216,Trevith,9.0,10.0,pupper,Chesapeake Bay Retriever,0.321589
+696488710901260288,Nameless,12.0,10.0,unclassified,Briard,0.369063
+696405997980676096,Berb,7.0,10.0,unclassified,Borzoi,0.132845
+695816827381944320,Nameless,11.0,10.0,unclassified,Pomeranian,0.382234
+695794761660297217,Wyatt,13.0,10.0,unclassified,Samoyed,0.962139
+695767669421768709,Nameless,13.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.805139
+695629776980148225,Calvin,8.0,10.0,unclassified,Old English Sheepdog,0.693857
+695446424020918272,Nameless,12.0,10.0,unclassified,Basenji,0.748904
+695409464418041856,Bob,10.0,10.0,unclassified,Pug,0.997445
+695314793360662529,Colin,10.0,10.0,unclassified,Maltese Dog,0.678547
+695095422348574720,Nameless,12.0,10.0,pupper,Papillon,0.227784
+695074328191332352,Lorenzo,11.0,10.0,pupper,Shih-Tzu,0.5101060000000001
+695064344191721472,Nameless,13.0,10.0,unclassified,Ice Lolly,0.051774
+695051054296211456,Brian,6.0,10.0,unclassified,Boston Bull,0.761454
+694905863685980160,Archie,10.0,10.0,unclassified,Black-Footed Ferret,0.082232
+694669722378485760,Phil,12.0,10.0,unclassified,Marmot,0.148309
+694356675654983680,Nameless,10.0,10.0,pupper,Pomeranian,0.144272
+694352839993344000,Oliviér,5.0,10.0,unclassified,Australian Terrier,0.407886
+694329668942569472,Grady,9.0,10.0,pupper,Boxer,0.99006
+694206574471057408,Nameless,10.0,10.0,unclassified,Shih-Tzu,0.352547
+694183373896572928,Lola,9.0,10.0,unclassified,Pekinese,0.08087
+694001791655137281,Chester,11.0,10.0,unclassified,Pembroke,0.769999
+693942351086120961,Kobe,10.0,10.0,unclassified,Groenendael,0.550796
+693647888581312512,Nameless,7.0,10.0,unclassified,Bathtub,0.0663684
+693642232151285760,Freddery,9.0,10.0,unclassified,Scottish Deerhound,0.111893
+693629975228977152,Nameless,12.0,10.0,pupper,Pug,0.841987
+693622659251335168,Nameless,10.0,10.0,unclassified,Malamute,0.449298
+693590843962331137,Phil,3.0,10.0,pupper,Siamese Cat,0.0982558
+693486665285931008,Lincoln,11.0,10.0,unclassified,Black-Footed Ferret,0.0399666999999999
+693280720173801472,Sadie,10.0,10.0,unclassified,Labrador Retriever,0.340008
+693262851218264065,Nameless,11.0,10.0,pupper,Golden Retriever,0.989333
+693231807727280129,Bodie,9.0,10.0,unclassified,Vizsla,0.8764129999999999
+693155686491000832,Dunkin,12.0,10.0,unclassified,Shih-Tzu,0.69748
+693109034023534592,Nameless,11.0,10.0,unclassified,Cocker Spaniel,0.740013
+693095443459342336,Milo,10.0,10.0,pupper,Yorkshire Terrier,0.0334878
+692919143163629568,Nameless,9.0,10.0,unclassified,Saint Bernard,0.612635
+692905862751522816,Wally,10.0,10.0,pupper,Mexican Hairless,0.162638
+692901601640583168,Nameless,10.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.403496
+692894228850999298,Tupawc,10.0,10.0,unclassified,German Short-Haired Pointer,0.876977
+692828166163931137,Nameless,12.0,10.0,pupper,Samoyed,0.985857
+692752401762250755,Nameless,13.0,10.0,pupper,Samoyed,0.471276
+692568918515392513,Chester,12.0,10.0,unclassified,Golden Retriever,0.636845
+692535307825213440,Amber,10.0,10.0,unclassified,Pug,0.4130899999999999
+692530551048294401,Cody,10.0,10.0,unclassified,Siberian Husky,0.4864279999999999
+692417313023332352,Herschel,7.0,10.0,pupper,Polecat,0.144494
+692187005137076224,Nameless,12.0,10.0,unclassified,Siberian Husky,0.810592
+692158366030913536,Edgar,10.0,10.0,unclassified,Pug,0.956565
+692142790915014657,Nameless,13.0,10.0,unclassified,Toy Poodle,0.670068
+692017291282812928,Kingsley,9.0,10.0,unclassified,Tibetan Terrier,0.247565
+691820333922455552,Brockly,8.0,10.0,unclassified,Limousine,0.0739359
+691756958957883396,Nameless,10.0,10.0,unclassified,Saint Bernard,0.342571
+691675652215414786,Richie,10.0,10.0,unclassified,Chihuahua,0.182898
+691483041324204033,Nameless,5.0,10.0,unclassified,Bloodhound,0.886232
+691459709405118465,Leo,12.0,10.0,unclassified,Shetland Sheepdog,0.5512060000000001
+691444869282295808,Bailey,12.0,10.0,unclassified,Bernese Mountain Dog,0.767563
+691416866452082688,Nameless,13.0,10.0,unclassified,Lakeland Terrier,0.530104
+691321916024623104,Molly,11.0,10.0,unclassified,Rottweiler,0.508981
+691096613310316544,Nameless,11.0,10.0,unclassified,Borzoi,0.4412689999999999
+691090071332753408,Nameless,12.0,10.0,unclassified,Bathtub,0.167285
+690959652130045952,Nameless,11.0,10.0,unclassified,Golden Retriever,0.862964
+690938899477221376,Nameless,10.0,10.0,unclassified,Beacon,0.046397
+690932576555528194,Buddy,12.0,10.0,unclassified,Scuba Diver,0.0342261999999999
+690735892932222976,Peaches,13.0,10.0,unclassified,Golden Retriever,0.883229
+690728923253055490,Vinscent,8.0,10.0,unclassified,Kuvasz,0.422806
+690690673629138944,Cedrick,10.0,10.0,unclassified,Maltese Dog,0.0896246
+690649993829576704,Hazel,11.0,10.0,unclassified,Mexican Hairless,0.0981708
+690597161306841088,Lolo,11.0,10.0,unclassified,Lhasa,0.0974997
+690400367696297985,Eriq,8.0,10.0,unclassified,Pembroke,0.426459
+690374419777196032,Phred,11.0,10.0,unclassified,Kuvasz,0.2863449999999999
+690360449368465409,Nameless,9.0,10.0,unclassified,Pug,0.686933
+690248561355657216,Maxwell,11.0,10.0,unclassified,Pickup,0.0406254
+690021994562220032,Geoff,10.0,10.0,unclassified,Malamute,0.0406958
+690015576308211712,Nameless,12.0,10.0,pupper,Malamute,0.949609
+690005060500217858,Nameless,10.0,10.0,unclassified,Samoyed,0.270287
+689999384604450816,Covach,10.0,10.0,unclassified,Standard Poodle,0.444499
+689977555533848577,Nameless,12.0,10.0,unclassified,Labrador Retriever,0.179625
+689905486972461056,Gizmo,11.0,10.0,pupper,Pomeranian,0.943331
+689877686181715968,Durg,9.0,10.0,unclassified,Old English Sheepdog,0.269155
+689835978131935233,Fynn,10.5,10.0,unclassified,Collie,0.600186
+689661964914655233,Luca,12.0,10.0,unclassified,Italian Greyhound,0.322818
+689659372465688576,Ricky,8.0,10.0,unclassified,Goose,0.0535688999999999
+689623661272240129,Lucy,10.0,10.0,pupper,Toy Poodle,0.279604
+689599056876867584,Nameless,11.0,10.0,unclassified,Cocker Spaniel,0.0731013999999999
+689557536375177216,Nameless,12.0,10.0,unclassified,Eskimo Dog,0.169482
+689517482558820352,Carl,12.0,10.0,unclassified,Pembroke,0.799319
+689289219123089408,Nameless,13.0,10.0,unclassified,Rifle,0.110875
+689283819090870273,Chipson,9.0,10.0,unclassified,Scotch Terrier,0.267979
+689280876073582592,Herald,10.0,10.0,unclassified,Chihuahua,0.6375460000000001
+689275259254616065,Lucky,10.0,10.0,unclassified,American Staffordshire Terrier,0.215161
+689154315265683456,Nameless,9.0,10.0,unclassified,Cocker Spaniel,0.816044
+689143371370250240,Trip,10.0,10.0,pupper,English Springer,0.3037809999999999
+688916208532455424,Nameless,11.0,10.0,pupper,Pembroke,0.430544
+688908934925697024,Clarence,8.0,10.0,unclassified,Bell Cote,0.0877414
+688898160958271489,Nameless,10.0,10.0,unclassified,Ibizan Hound,0.8531700000000001
+688894073864884227,Hamrick,7.0,10.0,pupper,Hamster,0.0623981999999999
+688828561667567616,Brad,9.0,10.0,unclassified,Cardigan,0.6142310000000001
+688804835492233216,Nameless,12.0,10.0,unclassified,Malinois,0.199512
+688789766343622656,Pubert,8.0,10.0,unclassified,American Staffordshire Terrier,0.5996600000000001
+688547210804498433,Frönq,9.0,10.0,unclassified,Papillon,0.531279
+688519176466644993,Nameless,12.0,10.0,pupper,Pembroke,0.696372
+688385280030670848,Louis,12.0,10.0,unclassified,Golden Retriever,0.900437
+688211956440801280,Derby,13.0,10.0,unclassified,Shoji,0.0987669
+688179443353796608,Lizzie,10.0,10.0,pupper,Arabian Camel,0.0151553
+688116655151435777,Nameless,10.0,10.0,unclassified,Pug,0.973819
+688064179421470721,Kilo,11.0,10.0,unclassified,Eskimo Dog,0.240602
+687826841265172480,Louis,12.0,10.0,unclassified,Pomeranian,0.99721
+687818504314159109,Nameless,12.0,10.0,pupper,Lakeland Terrier,0.873029
+687807801670897665,Trooper,11.0,10.0,unclassified,Staffordshire Bullterrier,0.151113
+687704180304273409,Blakely,9.0,10.0,pupper,Miniature Pinscher,0.956063
+687664829264453632,Opal,11.0,10.0,unclassified,Pug,0.957365
+687494652870668288,Marq,7.0,10.0,unclassified,Rottweiler,0.391471
+687480748861947905,Nameless,12.0,10.0,unclassified,English Springer,0.4722729999999999
+687476254459715584,Curtis,11.0,10.0,pupper,Hare,0.105072
+687460506001633280,Kramer,10.0,10.0,unclassified,Boston Bull,0.2233659999999999
+687317306314240000,Tyrone,11.0,10.0,unclassified,Shih-Tzu,0.747208
+687312378585812992,Nameless,7.0,10.0,pupper,Great Dane,0.139909
+687127927494963200,Gordon,9.0,10.0,unclassified,Pug,0.178205
+687124485711986689,Samson,11.0,10.0,unclassified,Beagle,0.0002162059999999
+687109925361856513,Baxter,11.0,10.0,unclassified,Borzoi,0.883086
+687102708889812993,Nameless,5.0,10.0,unclassified,Rock Crab,0.00151257
+687096057537363968,Nameless,11.0,10.0,pupper,Labrador Retriever,0.4171069999999999
+686947101016735744,Jackson,11.0,10.0,unclassified,Ice Bear,0.00143058
+686749460672679938,Nameless,8.0,10.0,unclassified,Bagel,0.0638797
+686730991906516992,Nameless,12.0,10.0,unclassified,Tibetan Mastiff,0.338812
+686683045143953408,Mona,11.0,10.0,pupper,Norwich Terrier,0.100499
+686618349602762752,Olivia,11.0,10.0,pupper,Rottweiler,0.441331
+686606069955735556,Horace,10.0,10.0,unclassified,Labrador Retriever,0.3200119999999999
+686386521809772549,Crimson,11.0,10.0,unclassified,Yorkshire Terrier,0.477704
+686377065986265092,Birf,10.0,10.0,pupper,German Shepherd,0.830816
+686358356425093120,Nameless,10.0,10.0,unclassified,Pug,0.985237
+686050296934563840,Flávio,11.0,10.0,unclassified,Pomeranian,0.985789
+686034024800862208,Nameless,12.0,10.0,unclassified,Great Dane,0.23692
+686007916130873345,Nameless,11.0,10.0,pupper,Rhodesian Ridgeback,0.885301
+686003207160610816,Hammond,3.0,10.0,unclassified,Whiptail,0.0889582
+685973236358713344,Lorelei,11.0,10.0,unclassified,Siberian Husky,0.4506779999999999
+685943807276412928,Nameless,8.0,10.0,pupper,Papillon,0.200812
+685906723014619143,Olive,9.0,10.0,unclassified,Yorkshire Terrier,0.414963
+685667379192414208,Marty,9.0,10.0,pupper,Washbasin,0.0463264
+685663452032069632,Brooks,12.0,10.0,unclassified,Chesapeake Bay Retriever,0.171174
+685641971164143616,Otis,7.0,10.0,pupper,Lakeland Terrier,0.253839
+685547936038666240,Nameless,14.0,10.0,pupper,Hand-Held Computer,0.00876857
+685532292383666176,Nameless,9.0,10.0,unclassified,Collie,0.0958052
+685325112850124800,Nameless,10.0,10.0,unclassified,Golden Retriever,0.586937
+685321586178670592,Rocky,10.0,10.0,unclassified,Boston Bull,0.972483
+685315239903100929,Nameless,11.0,10.0,unclassified,Chow,0.4701619999999999
+685307451701334016,Petrick,11.0,10.0,unclassified,Pomeranian,0.963176
+685268753634967552,Hubertson,10.0,10.0,pupper,Pug,0.999044
+685198997565345792,Alfie,11.0,10.0,unclassified,Old English Sheepdog,0.00967138
+685169283572338688,Gerbald,11.0,10.0,pupper,Bernese Mountain Dog,0.975096
+684959798585110529,Jerry,5.0,10.0,unclassified,Hog,0.0842515
+684940049151070208,Oreo,12.0,10.0,unclassified,Border Collie,0.665578
+684926975086034944,Bruiser,11.0,10.0,unclassified,Labrador Retriever,0.769412
+684914660081053696,Nameless,12.0,10.0,unclassified,Chow,0.261288
+684902183876321280,Perry,11.0,10.0,unclassified,Pembroke,0.708034
+684880619965411328,Nameless,5.0,10.0,pupper,Agama,0.0608837
+684800227459624960,Theodore,11.0,10.0,unclassified,Miniature Schnauzer,0.294457
+684594889858887680,Nameless,10.0,10.0,unclassified,Weimaraner,0.948688
+684567543613382656,Bobby,4.0,10.0,unclassified,Seat Belt,0.209393
+684538444857667585,Nameless,12.0,10.0,unclassified,Chihuahua,0.702583
+684481074559381504,Pippa,10.0,10.0,unclassified,Chihuahua,0.93781
+684460069371654144,Jeph,10.0,10.0,unclassified,Labrador Retriever,0.673691
+684241637099323392,Obi,12.0,10.0,unclassified,Pembroke,0.508498
+684225744407494656,Nameless,143.0,130.0,unclassified,Golden Retriever,0.203249
+684222868335505415,Nameless,121.0,110.0,unclassified,Soft-Coated Wheaten Terrier,0.7911819999999999
+684200372118904832,Nameless,6.0,10.0,unclassified,Hog,0.0436858
+684195085588783105,Tino,9.0,10.0,unclassified,Chihuahua,0.379365
+684188786104872960,Nameless,10.0,10.0,unclassified,Kelpie,0.537782
+684177701129875456,Kulet,10.0,10.0,unclassified,Chow,0.334783
+684122891630342144,Nameless,11.0,10.0,unclassified,Jaguar,0.0257848
+684097758874210310,Lupe,10.0,10.0,unclassified,Labrador Retriever,0.6278560000000001
+683857920510050305,Sadie,10.0,10.0,unclassified,Bluetick,0.174738
+683852578183077888,Tiger,10.0,10.0,unclassified,Toy Poodle,0.5513520000000001
+683849932751646720,Jiminy,5.0,10.0,unclassified,Mexican Hairless,0.164906
+683834909291606017,Nameless,9.0,10.0,pupper,Maltese Dog,0.738449
+683828599284170753,Nameless,12.0,10.0,pupper,Malamute,0.577376
+683773439333797890,Buddy,9.0,10.0,unclassified,Miniature Pinscher,0.0728852
+683742671509258241,Sebastian,11.0,10.0,unclassified,Pembroke,0.895279
+683498322573824003,Griffin,11.0,10.0,unclassified,Airedale,0.945362
+683481228088049664,Banjo,11.0,10.0,pupper,Keeshond,0.508951
+683462770029932544,Nameless,8.0,10.0,pupper,Italian Greyhound,0.3995599999999999
+683449695444799489,Nameless,10.0,10.0,unclassified,Lakeland Terrier,0.303512
+683391852557561860,Jack,11.0,10.0,unclassified,French Bulldog,0.992833
+683357973142474752,Nameless,10.0,10.0,unclassified,Pembroke,0.406509
+683142553609318400,Brandy,9.0,10.0,pupper,Leonberg,0.605851
+683111407806746624,Larry,10.0,10.0,pupper,Cocker Spaniel,0.901392
+683098815881154561,Nameless,12.0,10.0,unclassified,Golden Retriever,0.889848
+683078886620553216,Nameless,9.0,10.0,pupper,Eskimo Dog,0.0940442
+683030066213818368,Lulu,10.0,10.0,unclassified,Boxer,0.722218
+682962037429899265,Darrel,10.0,10.0,unclassified,Chihuahua,0.1552069999999999
+682788441537560576,Nameless,12.0,10.0,pupper,Teddy,0.0398082
+682750546109968385,Taco,9.0,10.0,unclassified,English Setter,0.947198
+682697186228989953,Nameless,12.0,10.0,unclassified,Cliff,0.0903855
+682662431982772225,Joey,11.0,10.0,unclassified,Beagle,0.4138239999999999
+682638830361513985,Nameless,12.0,10.0,unclassified,English Springer,0.440781
+682429480204398592,Nameless,8.0,10.0,unclassified,Whippet,0.594701
+682406705142087680,Patrick,7.0,10.0,pupper,Beaver,0.0794334
+682393905736888321,Kreg,11.0,10.0,unclassified,Vizsla,0.657275
+682389078323662849,Brody,9.0,10.0,unclassified,Curly-Coated Retriever,0.482288
+682303737705140231,Todo,9.0,10.0,unclassified,Lakeland Terrier,0.00173092
+682259524040966145,Jax,9.0,10.0,unclassified,Siberian Husky,0.43967
+682242692827447297,Samson,11.0,10.0,unclassified,Scuba Diver,0.0747539
+682059653698686977,Tess,11.0,10.0,unclassified,Pizza,0.00043248
+682047327939461121,Nameless,10.0,10.0,unclassified,Toyshop,0.0351270999999999
+682032003584274432,Ulysses,11.0,10.0,unclassified,Schipperke,0.997953
+682003177596559360,Nameless,5.0,10.0,unclassified,Mask,0.0502209999999999
+681981167097122816,Jimothy,12.0,10.0,unclassified,Labrador Retriever,0.452577
+681891461017812993,Charlie,10.0,10.0,pupper,Chihuahua,0.20357
+681694085539872773,Bo,11.0,10.0,pupper,Toy Poodle,0.920992
+681679526984871937,Nameless,7.0,10.0,pupper,Pot,0.0329059
+681654059175129088,Toffee,12.0,10.0,pupper,Pomeranian,0.800538
+681610798867845120,Nameless,12.0,10.0,unclassified,Toy Poodle,0.8217040000000001
+681579835668455424,Apollo,8.0,10.0,unclassified,Rottweiler,0.760671
+681523177663676416,Carly,12.0,10.0,unclassified,Norfolk Terrier,0.205067
+681339448655802368,Asher,9.0,10.0,unclassified,Labrador Retriever,0.0946148999999999
+681320187870711809,Glacier,11.0,10.0,unclassified,Samoyed,0.362596
+681302363064414209,Chuck,3.0,10.0,unclassified,Axolotl,0.0724793
+681297372102656000,Nameless,12.0,10.0,unclassified,Lhasa,0.482401
+681281657291280384,Sarge,11.0,10.0,unclassified,Saint Bernard,0.99883
+681261549936340994,Panda,9.0,10.0,unclassified,Tibetan Terrier,0.382101
+681242418453299201,Champ,10.0,10.0,unclassified,Assault Rifle,0.0970001
+681231109724700672,Nameless,11.0,10.0,pupper,Irish Setter,0.406047
+681193455364796417,Aspen,11.0,10.0,unclassified,Pomeranian,0.992619
+680970795137544192,Nameless,9.0,10.0,unclassified,Pug,0.713102
+680959110691590145,Ozzie,9.0,10.0,unclassified,Pug,0.0443565
+680940246314430465,Alice,4.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.289598
+680934982542561280,Sadie,10.0,10.0,unclassified,Labrador Retriever,0.7843979999999999
+680913438424612864,Griswold,11.0,10.0,unclassified,Pomeranian,0.615678
+680889648562991104,Cheesy,9.0,10.0,unclassified,Shetland Sheepdog,0.876337
+680836378243002368,Ellie,12.0,10.0,pupper,Pembroke,0.427781
+680801747103793152,Nameless,10.0,10.0,unclassified,Pug,0.99672
+680798457301471234,Moofasa,6.0,10.0,unclassified,Ox,0.0674551
+680609293079592961,Brody,9.0,10.0,unclassified,French Bulldog,0.700764
+680583894916304897,Penny,8.0,10.0,unclassified,Hippopotamus,0.0141773
+680497766108381184,Percy,12.0,10.0,unclassified,Chihuahua,0.538354
+680494726643068929,Nameless,11.26,10.0,unclassified,Kuvasz,0.438627
+680473011644985345,Hector,10.0,10.0,pupper,Lakeland Terrier,0.796694
+680440374763077632,Nameless,11.0,10.0,unclassified,Electric Fan,0.00671903
+680221482581123072,CeCe,10.0,10.0,unclassified,Abaya,0.139342
+680206703334408192,Toby,12.0,10.0,unclassified,Teddy,0.1091289999999999
+680191257256136705,Nameless,11.0,10.0,pupper,Brittany Spaniel,0.7332529999999999
+680176173301628928,Nameless,10.0,10.0,pupper,Feather Boa,0.152738
+680161097740095489,Goliath,12.0,10.0,unclassified,Bluetick,0.268681
+680145970311643136,Kawhi,10.0,10.0,pupper,Miniature Poodle,0.457117
+680130881361686529,Reggie,10.0,10.0,unclassified,Maltese Dog,0.199121
+680115823365742593,Ozzy,9.0,10.0,unclassified,Pug,0.999365
+680100725817409536,Nameless,11.0,10.0,pupper,Golden Retriever,0.6989609999999999
+680085611152338944,Nameless,12.0,10.0,unclassified,Wallet,0.0493258
+680070545539371008,Emmie,9.0,10.0,unclassified,Shih-Tzu,0.1218109999999999
+679877062409191424,Penelope,5.0,10.0,unclassified,Lumbermill,0.0164834
+679862121895714818,Nameless,11.0,10.0,unclassified,Entlebucher,0.5232060000000001
+679854723806179328,Bruce,7.0,10.0,unclassified,Chow,0.00230739
+679844490799091713,Willie,10.0,10.0,unclassified,Airedale,0.903832
+679828447187857408,Nameless,13.0,10.0,pupper,Chihuahua,0.346545
+679777920601223168,Rinna,10.0,10.0,pupper,Bloodhound,0.5288189999999999
+679736210798047232,Nameless,9.0,10.0,unclassified,French Bulldog,0.319139
+679729593985699840,Hunter,8.0,10.0,unclassified,West Highland White Terrier,0.0935148
+679722016581222400,Mike,8.0,10.0,unclassified,Boxer,0.459604
+679530280114372609,Nameless,7.0,10.0,unclassified,Dalmatian,0.750256
+679527802031484928,Nameless,11.0,10.0,pupper,Cuirass,0.0526471
+679511351870550016,William,7.0,10.0,unclassified,Chihuahua,0.761972
+679503373272485890,Dwight,8.0,10.0,pupper,Echidna,4.44729e-05
+679475951516934144,Evy,9.0,10.0,unclassified,Maltese Dog,0.145742
+679462823135686656,Hurley,11.0,10.0,unclassified,Toy Poodle,0.62178
+679158373988876288,Rubio,11.0,10.0,unclassified,Pug,0.272205
+679148763231985668,Nameless,8.0,10.0,unclassified,Italian Greyhound,0.302685
+679132435750195208,Louis,10.0,10.0,unclassified,Scottish Deerhound,0.1946099999999999
+679111216690831360,Nameless,12.0,10.0,unclassified,Kelpie,0.189423
+679062614270468097,Chompsky,11.0,10.0,unclassified,Schipperke,0.0455186
+679047485189439488,Nameless,9.0,10.0,unclassified,Golden Retriever,0.00293035
+678991772295516161,Nameless,12.0,10.0,unclassified,Eskimo Dog,0.330216
+678969228704284672,Lola,11.0,10.0,unclassified,Labrador Retriever,0.680251
+678800283649069056,Nameless,12.0,10.0,pupper,Labrador Retriever,0.213673
+678798276842360832,Linda,7.0,10.0,unclassified,Airedale,0.583122
+678774928607469569,Tug,11.0,10.0,unclassified,Pembroke,0.194681
+678767140346941444,Mia,8.0,10.0,unclassified,Mosquito Net,0.0167155999999999
+678764513869611008,Wilson,10.0,10.0,unclassified,Irish Terrier,0.696646
+678755239630127104,Dash,10.0,10.0,unclassified,Malamute,0.606654
+678740035362037760,Tango,6.0,10.0,unclassified,Beagle,0.0225251
+678675843183484930,Nameless,2.0,10.0,unclassified,Sundial,0.0848077
+678643457146150913,Grizz,10.0,10.0,unclassified,Labrador Retriever,0.338757
+678446151570427904,Nameless,10.0,10.0,unclassified,Staffordshire Bullterrier,0.284492
+678424312106393600,Crystal,2.0,10.0,unclassified,Maltese Dog,0.759945
+678410210315247616,Jerome,10.0,10.0,unclassified,Schipperke,0.145877
+678399652199309312,Nameless,12.0,10.0,unclassified,Bedlington Terrier,0.0150472
+678396796259975168,Nameless,12.0,10.0,unclassified,Pembroke,0.95618
+678389028614488064,Bella,11.0,10.0,pupper,Miniature Pinscher,0.516284
+678380236862578688,Crumpet,10.0,10.0,unclassified,Samoyed,0.0476014
+678341075375947776,Nameless,12.0,10.0,pupper,Golden Retriever,0.853284
+678334497360859136,Rosie,10.0,10.0,unclassified,Norfolk Terrier,0.378643
+678278586130948096,Nameless,10.0,10.0,pupper,Maltese Dog,0.897841
+678255464182861824,Jessifer,9.0,10.0,unclassified,Chihuahua,0.613819
+678021115718029313,Reese,12.0,10.0,unclassified,Miniature Pinscher,0.822048
+677918531514703872,Nameless,10.0,10.0,unclassified,Eskimo Dog,0.199347
+677895101218201600,Nameless,9.0,10.0,unclassified,Dalmatian,0.550702
+677716515794329600,Nameless,144.0,120.0,unclassified,Chow,0.0254378
+677700003327029250,Ralph,10.0,10.0,unclassified,Siberian Husky,0.120849
+677698403548192770,Sadie,9.0,10.0,unclassified,Shih-Tzu,0.916645
+677687604918272002,Nameless,11.0,10.0,unclassified,Pembroke,0.573047
+677673981332312066,Nameless,9.0,10.0,unclassified,Maltese Dog,0.817908
+677662372920729601,Nameless,12.0,10.0,unclassified,Cloak,0.0714388999999999
+677644091929329666,Nameless,11.0,10.0,unclassified,Chihuahua,0.626236
+677573743309385728,Sandy,10.0,10.0,unclassified,Parallel Bars,0.0347964999999999
+677565715327688705,Nameless,6.0,10.0,unclassified,Basset,0.397295
+677557565589463040,Nameless,10.0,10.0,pupper,Shih-Tzu,0.249017
+677547928504967168,Nameless,12.0,10.0,unclassified,American Staffordshire Terrier,0.914978
+677530072887205888,Axel,9.0,10.0,unclassified,Staffordshire Bullterrier,0.6892590000000001
+677334615166730240,Nameless,9.0,10.0,unclassified,Lakeland Terrier,0.859392
+677331501395156992,Humphrey,9.0,10.0,unclassified,Beagle,0.3134639999999999
+677328882937298944,Derek,10.0,10.0,unclassified,Kelpie,0.0290541
+677314812125323265,Tassy,10.5,10.0,unclassified,Blenheim Spaniel,0.924127
+677301033169788928,Juckson,5.0,10.0,unclassified,Japanese Spaniel,0.6611779999999999
+677269281705472000,Nameless,10.0,10.0,pupper,Shetland Sheepdog,0.656616
+677228873407442944,Chuq,11.0,10.0,unclassified,Green Lizard,0.0449758
+677187300187611136,Nameless,9.0,10.0,unclassified,English Setter,0.282396
+676975532580409345,Cooper,11.0,10.0,unclassified,Malamute,0.363257
+676957860086095872,Nameless,10.0,10.0,unclassified,Labrador Retriever,0.772423
+676949632774234114,Tyrus,8.0,10.0,unclassified,Welsh Springer Spaniel,0.206479
+676948236477857792,Karl,6.0,10.0,unclassified,Squirrel Monkey,0.0832473
+676946864479084545,Nameless,12.0,10.0,unclassified,Pekinese,0.752707
+676942428000112642,Nameless,9.0,10.0,unclassified,Weasel,0.0976255
+676936541936185344,Nameless,8.0,10.0,pupper,Chesapeake Bay Retriever,0.5452859999999999
+676897532954456065,Nameless,5.0,10.0,unclassified,Macaque,0.0130581999999999
+676864501615042560,Ash,10.0,10.0,unclassified,Chesapeake Bay Retriever,0.371146
+676821958043033607,Nameless,11.0,10.0,unclassified,Great Pyrenees,0.8698040000000001
+676819651066732545,Nameless,12.0,10.0,pupper,Labrador Retriever,0.0394645999999999
+676811746707918848,Penny,9.0,10.0,unclassified,Chihuahua,0.440916
+676776431406465024,Nameless,10.0,10.0,unclassified,Microwave,0.03811
+676617503762681856,Nameless,13.0,10.0,pupper,Chihuahua,0.841084
+676613908052996102,Nameless,12.0,10.0,unclassified,Doberman,0.0964228
+676606785097199616,Nameless,12.0,10.0,unclassified,Malinois,0.1423
+676603393314578432,Godzilla,9.0,10.0,pupper,Whippet,0.8770209999999999
+676588346097852417,Bubbles,5.0,10.0,unclassified,Boston Bull,0.976577
+676582956622721024,Vinnie,8.0,10.0,unclassified,Boston Bull,0.1963069999999999
+676575501977128964,Nameless,8.0,10.0,pupper,Yorkshire Terrier,0.0731443
+676533798876651520,Nameless,12.0,10.0,unclassified,Chow,0.2652739999999999
+676496375194980353,Griffin,9.0,10.0,unclassified,Pug,0.985387
+676470639084101634,Nameless,11.0,10.0,pupper,Golden Retriever,0.7903859999999999
+676440007570247681,Nameless,11.0,10.0,unclassified,Maltese Dog,0.579472
+676430933382295552,Duke,10.0,10.0,unclassified,Golden Retriever,0.583875
+676263575653122048,Nameless,10.0,10.0,pupper,Toy Poodle,0.0980293
+676237365392908289,Winston,8.0,10.0,unclassified,French Bulldog,0.961996
+676219687039057920,Kenneth,10.0,10.0,unclassified,Whippet,0.000132464
+676215927814406144,Herm,9.0,10.0,unclassified,Broccoli,6.091100000000001e-05
+676191832485810177,Nameless,8.5,10.0,unclassified,Chihuahua,0.376741
+676146341966438401,Bert,10.0,10.0,unclassified,Irish Water Spaniel,0.388332
+676101918813499392,Striker,11.0,10.0,unclassified,Shih-Tzu,0.225848
+676098748976615425,Nameless,3.0,10.0,unclassified,Purse,0.0814119
+676089483918516224,Nameless,9.0,10.0,unclassified,Bull Mastiff,0.743808
+675898130735476737,Nameless,10.0,10.0,pupper,Labrador Retriever,0.40743
+675891555769696257,Donny,6.0,10.0,unclassified,Italian Greyhound,0.305637
+675888385639251968,Nameless,10.0,10.0,unclassified,West Highland White Terrier,0.672117
+675878199931371520,Nameless,11.0,10.0,unclassified,Cardigan,0.0436270999999999
+675870721063669760,Nameless,11.0,10.0,unclassified,Golden Retriever,0.263892
+675853064436391936,Nameless,88.0,80.0,unclassified,Labrador Retriever,0.868367
+675845657354215424,Pepper,10.0,10.0,pupper,Pug,0.8839520000000001
+675822767435051008,Nameless,10.0,10.0,unclassified,Pomeranian,0.46071
+675820929667219457,Nameless,11.0,10.0,unclassified,Basset,0.556373
+675798442703122432,Bernie,10.0,10.0,unclassified,Beagle,0.681218
+675781562965868544,Buddah,11.0,10.0,unclassified,Maltese Dog,0.921968
+675740360753160193,Nameless,12.0,10.0,pupper,Golden Retriever,0.800495
+675710890956750848,Lenny,12.0,10.0,unclassified,Standard Schnauzer,0.441427
+675707330206547968,Nameless,11.0,10.0,unclassified,Staffordshire Bullterrier,0.0593442
+675706639471788032,Wylie,10.0,10.0,unclassified,English Springer,0.9903
+675534494439489536,Nameless,11.0,10.0,unclassified,Chow,0.749368
+675531475945709568,Ellie,10.0,10.0,unclassified,Pembroke,0.918441
+675522403582218240,Sammy,10.0,10.0,unclassified,Cocker Spaniel,0.299708
+675517828909424640,Nameless,12.0,10.0,unclassified,Scottish Deerhound,0.240591
+675501075957489664,Nameless,13.0,10.0,unclassified,French Loaf,0.0181889
+675497103322386432,Reggie,11.0,10.0,unclassified,Vizsla,0.5195890000000001
+675489971617296384,Nameless,10.0,10.0,unclassified,West Highland White Terrier,0.139613
+675483430902214656,Nameless,5.0,10.0,unclassified,Loggerhead,0.0711215
+675432746517426176,Nameless,12.0,10.0,unclassified,Labrador Retriever,0.986548
+675372240448454658,Nameless,13.0,10.0,unclassified,Chihuahua,0.416385
+675362609739206656,Daisy,12.0,10.0,unclassified,Labrador Retriever,0.479008
+675354435921575936,Nameless,13.0,10.0,unclassified,Golden Retriever,0.181351
+675349384339542016,Nameless,13.0,10.0,unclassified,Borzoi,0.866367
+675334060156301312,Nameless,12.0,10.0,pupper,Pembroke,0.773135
+675166823650848770,Arnold,10.0,10.0,unclassified,Standard Poodle,0.132569
+675153376133427200,Nameless,1.0,10.0,unclassified,Seat Belt,0.0349950999999999
+675149409102012420,Nameless,12.0,10.0,unclassified,Chow,0.999876
+675147105808306176,Nameless,10.0,10.0,unclassified,Golden Retriever,0.949215
+675146535592706048,Coops,7.0,10.0,unclassified,Cardigan,0.229944
+675145476954566656,Nameless,9.0,10.0,unclassified,Labrador Retriever,0.458746
+675135153782571009,Steven,5.0,10.0,unclassified,Microwave,0.0207253
+675113801096802304,Zuzu,10.0,10.0,pupper,Joystick,0.0433118
+675111688094527488,Oliver,8.0,10.0,unclassified,Labrador Retriever,0.631501
+675109292475830276,Nameless,9.0,10.0,unclassified,Dalmatian,0.989519
+675047298674663426,Nameless,11.0,10.0,unclassified,Samoyed,0.978007
+675015141583413248,Moe,10.0,10.0,unclassified,Golden Retriever,0.258372
+675006312288268288,Mollie,10.0,10.0,pupper,Boxer,0.654697
+675003128568291329,Laela,12.0,10.0,unclassified,Pembroke,0.655279
+674999807681908736,Nameless,13.0,10.0,unclassified,Rottweiler,0.591829
+674805413498527744,Nameless,10.0,10.0,unclassified,English Springer,0.594467
+674800520222154752,Tedders,11.0,10.0,unclassified,Pembroke,0.8764790000000001
+674793399141146624,Nameless,13.0,10.0,unclassified,Giant Schnauzer,0.119693
+674790488185167872,Nameless,13.0,10.0,unclassified,Labrador Retriever,0.8019029999999999
+674788554665512960,Maggie,9.0,10.0,unclassified,Miniature Poodle,0.349561
+674781762103414784,Nameless,8.0,10.0,unclassified,Wool,0.0317285
+674774481756377088,Superpup,11.0,10.0,pupper,Chihuahua,0.407016
+674767892831932416,Nameless,12.0,10.0,unclassified,Kimono,0.0564125
+674764817387900928,Nameless,10.0,10.0,unclassified,Samoyed,0.634695
+674754018082705410,Nameless,12.0,10.0,unclassified,Wreck,0.0955966999999999
+674752233200820224,Nameless,12.0,10.0,unclassified,Vizsla,0.665516
+674743008475090944,Sophie,10.0,10.0,unclassified,Bernese Mountain Dog,0.583054
+674739953134403584,Nameless,11.0,10.0,unclassified,Dandie Dinmont,0.175915
+674737130913071104,Rufio,7.0,10.0,pupper,Pomeranian,0.948537
+674690135443775488,Patrick,3.0,10.0,unclassified,Screw,0.172838
+674670581682434048,Jeb,9.0,10.0,unclassified,Malamute,0.180079
+674664755118911488,Rodman,10.0,10.0,unclassified,Mink,0.0574807
+674646392044941312,Nameless,6.5,10.0,unclassified,Flat-Coated Retriever,0.837448
+674644256330530816,Nameless,11.0,10.0,unclassified,Basset,0.335692
+674638615994089473,Nameless,12.0,10.0,pupper,Pomeranian,0.846986
+674632714662858753,Nameless,5.0,10.0,unclassified,Coral Reef,0.0870471999999999
+674468880899788800,Louis,13.0,10.0,unclassified,Chow,0.52623
+674447403907457024,Nameless,10.0,10.0,pupper,Brabancon Griffon,0.409909
+674436901579923456,Bailey,9.0,10.0,unclassified,Shih-Tzu,0.105416
+674422304705744896,Ava,12.0,10.0,unclassified,Golden Retriever,0.964497
+674416750885273600,Jonah,10.0,10.0,unclassified,Chihuahua,0.287201
+674410619106390016,Lenny,10.0,10.0,unclassified,Beagle,0.0194268
+674394782723014656,Gary,8.0,10.0,unclassified,Lakeland Terrier,0.109099
+674372068062928900,Chesney,10.0,10.0,unclassified,Sandbar,0.0493491
+674318007229923329,Lennon,8.0,10.0,pupper,Echidna,0.0146804
+674291837063053312,Kenny,11.0,10.0,unclassified,Cardigan,0.611525
+674271431610523648,Nameless,10.0,10.0,unclassified,German Shepherd,0.991454
+674269164442398721,Bob,8.0,10.0,unclassified,Pug,0.6229210000000001
+674265582246694913,Henry,2.0,10.0,unclassified,Leafhopper,9.72038e-05
+674262580978937856,Gus,9.0,10.0,pupper,Greater Swiss Mountain Dog,0.519428
+674255168825880576,Bobbay,10.0,10.0,unclassified,Eskimo Dog,0.615741
+674082852460433408,Nameless,11.0,10.0,unclassified,Pomeranian,0.666957
+674075285688614912,Mitch,11.0,10.0,unclassified,Airedale,0.305392
+674063288070742018,Earl,5.0,10.0,unclassified,Swab,0.0644557
+674053186244734976,Stanley,10.0,10.0,unclassified,Cardigan,0.984725
+674051556661161984,Lucy,10.0,10.0,unclassified,Shih-Tzu,0.179777
+674045139690631169,Nameless,3.0,10.0,unclassified,European Fire Salamander,0.0431782
+674042553264685056,Nameless,12.0,10.0,unclassified,Toy Poodle,0.927975
+674038233588723717,Kaiya,12.0,10.0,pupper,Eskimo Dog,0.358459
+674036086168010753,Daisy,9.0,10.0,unclassified,Toy Poodle,0.685617
+674024893172875264,Nameless,10.0,10.0,unclassified,Pomeranian,0.6485
+674019345211760640,Acro,10.0,10.0,unclassified,Collie,0.992732
+674014384960745472,Aiden,11.0,10.0,unclassified,Pembroke,0.74232
+674008982932058114,Nameless,10.0,10.0,unclassified,Quill,0.00843171
+673956914389192708,Nameless,10.0,10.0,pupper,Pug,0.5861609999999999
+673919437611909120,Obie,11.0,10.0,pupper,Schipperke,0.1159839999999999
+673906403526995968,Nameless,3.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.0489277
+673887867907739649,Nameless,10.0,10.0,unclassified,Brabancon Griffon,0.216767
+673715861853720576,Nameless,4.0,10.0,unclassified,Windsor Tie,0.1327009999999999
+673711475735838725,Nameless,10.0,10.0,unclassified,Maltese Dog,0.607401
+673709992831262724,Nameless,12.0,10.0,unclassified,Chihuahua,0.330171
+673708611235921920,Riley,12.0,10.0,unclassified,Golden Retriever,0.936333
+673707060090052608,Raymond,10.0,10.0,pupper,German Short-Haired Pointer,0.935771
+673705679337693185,Dot,8.0,10.0,unclassified,Shih-Tzu,0.165383
+673700254269775872,Nameless,3.0,10.0,unclassified,Bucket,0.0374319
+673697980713705472,Pickles,8.0,10.0,pupper,Doormat,0.0589337
+673689733134946305,Nameless,11.0,10.0,unclassified,Chesapeake Bay Retriever,0.38222
+673688752737402881,Larry,9.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.340806
+673686845050527744,George,11.0,10.0,unclassified,Pekinese,0.1859029999999999
+673680198160809984,Shnuggles,13.0,10.0,unclassified,Samoyed,0.989853
+673662677122719744,Kendall,12.0,10.0,unclassified,Labrador Retriever,0.95767
+673656262056419329,Albert,10.0,10.0,pupper,Bull Mastiff,0.700625
+673636718965334016,Kip,10.0,10.0,unclassified,Pug,0.0190442999999999
+673612854080196609,Jeffri,7.0,10.0,pupper,Newfoundland,0.223101
+673583129559498752,Sandy,11.0,10.0,unclassified,Golden Retriever,0.113946
+673580926094458881,Nameless,8.0,10.0,unclassified,Beagle,0.985062
+673576835670777856,Nameless,7.0,10.0,unclassified,Pajama,0.0727351
+673363615379013632,Nameless,11.0,10.0,pupper,Bison,0.111177
+673359818736984064,Steve,8.0,10.0,unclassified,English Setter,0.6965680000000001
+673355879178194945,Koda,11.0,10.0,unclassified,Rottweiler,0.5292479999999999
+673352124999274496,Nameless,12.0,10.0,unclassified,Golden Retriever,0.672808
+673350198937153538,Bella,9.0,10.0,unclassified,West Highland White Terrier,0.119188
+673345638550134785,Gerald,7.0,10.0,unclassified,Pomeranian,0.064627
+673343217010679808,Nameless,11.0,10.0,unclassified,Chihuahua,0.541408
+673342308415348736,Django,10.0,10.0,pupper,Chihuahua,0.0135592
+673320132811366400,Frankie,11.0,10.0,unclassified,Samoyed,0.978833
+673317986296586240,Nameless,10.0,10.0,unclassified,Miniature Pinscher,0.3840989999999999
+673295268553605120,Eve,8.0,10.0,pupper,Golden Retriever,0.889241
+673270968295534593,Mac,11.0,10.0,unclassified,Shih-Tzu,0.610453
+673240798075449344,Nameless,6.0,10.0,unclassified,Airedale,0.443004
+673213039743795200,Dexter,10.0,10.0,unclassified,Schipperke,0.8880819999999999
+673148804208660480,Fletcher,8.0,10.0,pupper,Toilet Seat,0.0254562999999999
+672997845381865473,Kenzie,12.0,10.0,unclassified,Chow,0.517255
+672995267319328768,Pumpkin,8.0,10.0,unclassified,French Bulldog,0.7195590000000001
+672988786805112832,Schnozz,10.0,10.0,pupper,Lakeland Terrier,0.8366319999999999
+672984142909456390,Nameless,9.0,10.0,unclassified,Wallaby,0.0323701
+672980819271634944,Nameless,5.0,10.0,unclassified,Basset,0.219461
+672975131468300288,Chuckles,10.0,10.0,pupper,Pug,0.8364209999999999
+672970152493887488,Chet,7.0,10.0,pupper,Crayfish,0.0580336
+672968025906282496,Gustaf,11.0,10.0,unclassified,Toy Poodle,0.678046
+672964561327235073,Terry,10.0,10.0,unclassified,Chihuahua,0.2923429999999999
+672902681409806336,Jimison,9.0,10.0,unclassified,Arabian Camel,0.111919
+672898206762672129,Cheryl,11.0,10.0,unclassified,Moped,0.033079
+672884426393653248,Nameless,6.0,10.0,unclassified,Water Buffalo,0.1058559999999999
+672877615439593473,Oscar,8.0,10.0,unclassified,Chihuahua,0.412362
+672834301050937345,Ed,10.0,10.0,unclassified,Pembroke,0.5825600000000001
+672828477930868736,Jerry,9.0,10.0,unclassified,Seashore,0.0751248
+672640509974827008,Leonidas,9.0,10.0,unclassified,Chesapeake Bay Retriever,0.420155
+672622327801233409,Nameless,12.0,10.0,pupper,Golden Retriever,0.952773
+672614745925664768,Norman,6.0,10.0,pupper,Sea Cucumber,0.00201543
+672609152938721280,Caryl,9.0,10.0,unclassified,Television,0.00588062
+672604026190569472,Nameless,11.0,10.0,unclassified,Toy Poodle,0.8201579999999999
+672594978741354496,Scott,9.0,10.0,pupper,Great Pyrenees,0.755945
+672591762242805761,Taz,10.0,10.0,unclassified,Kuvasz,0.777659
+672591271085670400,Nameless,8.0,10.0,unclassified,Bassinet,0.0936789
+672538107540070400,Darby,7.0,10.0,unclassified,Chihuahua,0.160274
+672523490734551040,Nameless,10.0,10.0,unclassified,Golden Retriever,0.5659810000000001
+672488522314567680,Jackie,10.0,10.0,unclassified,Doberman,0.605358
+672482722825261057,Nameless,10.0,10.0,unclassified,West Highland White Terrier,0.5861729999999999
+672481316919734272,Jazz,12.0,10.0,pupper,Border Collie,0.599454
+672475084225949696,Buddy,8.0,10.0,unclassified,Box Turtle,0.0164038
+672466075045466113,Franq,12.0,10.0,unclassified,Cocker Spaniel,0.150424
+672272411274932228,Pippin,11.0,10.0,unclassified,Pug,0.914685
+672267570918129665,Nameless,10.0,10.0,unclassified,Irish Terrier,0.716932
+672264251789176834,Kreg,10.0,10.0,unclassified,Chihuahua,0.6098600000000001
+672256522047614977,Nameless,8.0,10.0,unclassified,Llama,0.000146942
+672254177670729728,Rolf,11.0,10.0,pupper,Pug,0.979487
+672248013293752320,Nameless,10.0,10.0,unclassified,Irish Terrier,0.4131729999999999
+672245253877968896,Snickers,12.0,10.0,unclassified,Chihuahua,0.7189439999999999
+672239279297454080,Ridley,7.0,10.0,unclassified,Pug,0.332536
+672231046314901505,Nameless,5.0,10.0,unclassified,Hammerhead,0.0295219
+672222792075620352,Cal,9.0,10.0,unclassified,Beagle,0.958178
+672205392827572224,Opal,9.0,10.0,pupper,Pug,0.00326691
+672169685991993344,Bradley,10.0,10.0,unclassified,Cocker Spaniel,0.991011
+672160042234327040,Bubba,8.0,10.0,pupper,Pug,0.561027
+672139350159835138,Nameless,12.0,10.0,unclassified,Rottweiler,0.290992
+672125275208069120,Nameless,11.0,10.0,unclassified,Golden Retriever,8.67567e-05
+672095186491711488,Tuco,9.0,10.0,unclassified,Pug,0.794087
+672082170312290304,Patch,11.0,10.0,unclassified,Toy Poodle,0.1239619999999999
+672068090318987265,Gizmo,7.0,10.0,unclassified,Pug,0.8633850000000001
+671896809300709376,Lola,10.0,10.0,unclassified,Chow,0.243529
+671891728106971137,Mojo,11.0,10.0,unclassified,Labrador Retriever,0.567933
+671882082306625538,Batdog,11.0,10.0,unclassified,Abaya,0.00547945
+671879137494245376,Brad,5.0,10.0,unclassified,Chickadee,0.156687
+671874878652489728,Mia,10.0,10.0,unclassified,Bookcase,0.00165181
+671866342182637568,Dylan,10.0,10.0,unclassified,Labrador Retriever,0.8756139999999999
+671855973984772097,Nameless,8.0,10.0,unclassified,Fountain,0.0317555
+671789708968640512,Nameless,13.0,10.0,unclassified,Dalmatian,0.1142589999999999
+671768281401958400,Nameless,10.0,10.0,unclassified,Chihuahua,0.500373
+671763349865160704,Mark,9.0,10.0,unclassified,Bib,0.0488131999999999
+671744970634719232,Nameless,6.0,10.0,unclassified,Arctic Fox,0.0815514
+671743150407421952,Jacob,11.0,10.0,unclassified,Toy Poodle,0.419427
+671735591348891648,Oscar,11.0,10.0,unclassified,Irish Wolfhound,0.0630781999999999
+671729906628341761,Nameless,13.0,10.0,unclassified,Kuvasz,0.4314689999999999
+671561002136281088,Nameless,13.0,10.0,unclassified,Gordon Setter,0.4693729999999999
+671547767500775424,Marley,10.0,10.0,unclassified,Cowboy Boot,0.066536
+671544874165002241,Nameless,6.0,10.0,unclassified,Wool,0.0406735
+671542985629241344,JD,10.0,10.0,unclassified,Shetland Sheepdog,0.980339
+671538301157904385,Baxter,8.0,10.0,unclassified,Beacon,0.0534331
+671536543010570240,Reginald,9.0,10.0,unclassified,Pug,0.537652
+671533943490011136,Nameless,6.0,10.0,unclassified,Black Swan,0.00118075
+671528761649688577,Jax,10.0,10.0,unclassified,Doberman,0.782626
+671520732782923777,Alejandro,10.0,10.0,unclassified,Pomeranian,0.551031
+671518598289059840,Scruffers,9.0,10.0,unclassified,Lakeland Terrier,0.428275
+671511350426865664,Hammond,8.0,10.0,unclassified,Snail,0.0979159
+671504605491109889,Charlie,11.0,10.0,unclassified,Toy Poodle,0.259115
+671497587707535361,Pip,11.0,10.0,unclassified,Bathing Cap,0.065694
+671488513339211776,Julius,8.0,10.0,unclassified,Shower Curtain,0.0663605
+671486386088865792,Malcolm,10.0,10.0,unclassified,German Shepherd,0.8270350000000001
+671485057807351808,Penelope,11.0,10.0,unclassified,Samoyed,0.627901
+671390180817915904,Nameless,7.0,10.0,unclassified,Prairie Chicken,0.000574567
+671362598324076544,Tanner,11.0,10.0,unclassified,Swimming Trunks,0.0773008
+671357843010908160,Nameless,9.0,10.0,unclassified,Italian Greyhound,0.831757
+671355857343524864,Lou,10.0,10.0,unclassified,Miniature Poodle,0.313811
+671347597085433856,Lola,9.0,10.0,unclassified,Plastic Bag,0.0388782
+671186162933985280,Sparky,10.0,10.0,unclassified,Chihuahua,0.319106
+671182547775299584,Nameless,12.0,10.0,unclassified,Rottweiler,0.331179
+671166507850801152,Herm,10.0,10.0,unclassified,Shower Curtain,0.0154606999999999
+671163268581498880,Nameless,8.0,10.0,unclassified,Scottish Deerhound,0.0269829
+671159727754231808,Anthony,5.0,10.0,unclassified,Mask,0.0595166999999999
+671154572044468225,Holly,9.5,10.0,unclassified,Labrador Retriever,0.495047
+671151324042559489,Nameless,12.0,10.0,unclassified,Rottweiler,0.781201
+671147085991960577,Rufus,9.0,10.0,unclassified,Yorkshire Terrier,0.467202
+671141549288370177,Nameless,9.0,10.0,unclassified,Borzoi,0.0753577
+671138694582165504,Nameless,10.0,10.0,unclassified,Samoyed,0.587342
+671134062904504320,Clarence,8.0,10.0,unclassified,Shih-Tzu,0.1803799999999999
+671122204919246848,Nameless,4.0,10.0,unclassified,Chihuahua,0.101228
+671115716440031232,Phred,6.0,10.0,unclassified,Malinois,0.406341
+671109016219725825,Toby,8.0,10.0,unclassified,Basenji,0.855959
+670995969505435648,Nameless,12.0,10.0,unclassified,Redbone,0.8662209999999999
+670842764863651840,Nameless,420.0,10.0,unclassified,Drumstick,0.0611128
+670840546554966016,Colby,10.0,10.0,unclassified,Shih-Tzu,0.963622
+670838202509447168,Nameless,4.0,10.0,unclassified,Stinkhorn,0.00185895
+670833812859932673,Jett,7.0,10.0,unclassified,Pekinese,0.609853
+670832455012716544,Amy,10.0,10.0,unclassified,Malinois,0.317607
+670826280409919488,Nameless,2.0,10.0,unclassified,Wolf Spider,0.0148375
+670823764196741120,Remington,12.0,10.0,unclassified,Labrador Retriever,0.947453
+670822709593571328,Nameless,10.0,10.0,unclassified,Chihuahua,0.00125152
+670815497391357952,Sage,10.0,10.0,unclassified,American Staffordshire Terrier,0.919714
+670811965569282048,Maggie,10.0,10.0,unclassified,Basset,0.99409
+670807719151067136,Andy,11.0,10.0,unclassified,Old English Sheepdog,0.958035
+670804601705242624,Mason,10.0,10.0,unclassified,Pomeranian,0.86856
+670803562457407488,Nameless,10.0,10.0,unclassified,Basenji,0.344101
+670797304698376195,Trigger,11.0,10.0,unclassified,Pembroke,0.472197
+670792680469889025,Antony,7.0,10.0,unclassified,Toy Poodle,0.031355
+670789397210615808,Nameless,9.0,10.0,unclassified,Beagle,0.295966
+670786190031921152,Creg,8.0,10.0,unclassified,Pembroke,0.127438
+670783437142401025,Nameless,1.0,10.0,unclassified,Leafhopper,0.0683468999999999
+670782429121134593,Nameless,5.0,10.0,unclassified,Chihuahua,0.952963
+670780561024270336,Traviss,7.0,10.0,unclassified,Labrador Retriever,0.244889
+670778058496974848,Nameless,10.0,10.0,unclassified,Pug,0.776612
+670764103623966721,Vincent,10.0,10.0,unclassified,Norfolk Terrier,0.17285
+670755717859713024,Gin,9.0,10.0,unclassified,Keeshond,0.994065
+670733412878163972,Jerry,8.0,10.0,unclassified,Wood Rabbit,0.0911328
+670727704916926465,Jeffrie,10.0,10.0,unclassified,Egyptian Cat,0.154914
+670717338665226240,Nameless,12.0,10.0,unclassified,Pomeranian,0.368161
+670704688707301377,Danny,6.0,10.0,unclassified,Norwich Terrier,0.419838
+670691627984359425,Ester,8.0,10.0,unclassified,Shetland Sheepdog,0.0711243999999999
+670679630144274432,Pluto,8.0,10.0,unclassified,Ibizan Hound,0.342734
+670676092097810432,Bloo,8.0,10.0,unclassified,Dandie Dinmont,0.6761020000000001
+670668383499735048,Phineas,10.0,10.0,unclassified,Bagel,0.0890326
+670474236058800128,Nameless,10.0,10.0,unclassified,Gorilla,0.0588936
+670468609693655041,Edd,10.0,10.0,unclassified,Car Wheel,0.0643458
+670465786746662913,Nameless,7.0,10.0,unclassified,Common Newt,0.078694
+670452855871037440,Nameless,11.0,10.0,unclassified,Malamute,0.0803794999999999
+670449342516494336,Nameless,5.0,10.0,unclassified,Agama,2.15076e-05
+670444955656130560,Paull,10.0,10.0,unclassified,English Springer,0.403698
+670442337873600512,Koda,11.0,10.0,unclassified,Sussex Spaniel,0.403552
+670435821946826752,Nameless,10.0,10.0,unclassified,Basenji,0.135767
+670434127938719744,Hank,9.5,10.0,unclassified,Chesapeake Bay Retriever,0.027351
+670433248821026816,Sam,10.0,10.0,unclassified,Giant Schnauzer,0.0622148
+670428280563085312,Willy,11.0,10.0,unclassified,Chow,0.335269
+670427002554466305,Spork,9.0,10.0,unclassified,Toy Terrier,0.0388716
+670421925039075328,Herb,12.0,10.0,unclassified,Chihuahua,0.275793
+670420569653809152,Damon,10.0,10.0,unclassified,Wig,0.0722949
+670417414769758208,Nameless,6.0,10.0,unclassified,Cardoon,0.00814587
+670411370698022913,Scooter,12.0,10.0,unclassified,Maltese Dog,0.584397
+670408998013820928,Peanut,10.0,10.0,unclassified,Racket,1.47073e-05
+670403879788544000,Nigel,10.0,10.0,unclassified,Pug,0.8022229999999999
+670385711116361728,Larry,8.0,10.0,unclassified,Whippet,0.178027
+670374371102445568,Daisy,12.0,10.0,unclassified,English Springer,0.974936
+670361874861563904,Cherokee,9.0,10.0,unclassified,Bison,0.00389691
+670338931251150849,Butters,10.0,10.0,unclassified,Cairn,0.245033
+670319130621435904,Nameless,11.0,10.0,unclassified,Irish Terrier,0.2548559999999999
+670303360680108032,Hemry,9.0,10.0,unclassified,Shetland Sheepdog,0.380278
+670290420111441920,Sandra,11.0,10.0,unclassified,Chihuahua,0.368876
+670093938074779648,Wally,9.0,10.0,unclassified,Toy Poodle,0.383346
+670086499208155136,Nameless,10.0,10.0,unclassified,German Short-Haired Pointer,0.273492
+670079681849372674,Fabio,10.0,10.0,unclassified,Box Turtle,0.0606781999999999
+670073503555706880,Winston,10.0,10.0,unclassified,Malamute,0.6018859999999999
+670069087419133954,Randall,5.0,10.0,unclassified,Ashcan,0.0456732
+670061506722140161,Liam,11.0,10.0,unclassified,Italian Greyhound,0.329339
+670055038660800512,Tommy,3.0,10.0,unclassified,Bolete,0.0318392
+670046952931721218,Ben,11.0,10.0,unclassified,Blenheim Spaniel,0.998335
+670040295598354432,Nameless,10.0,10.0,unclassified,Borzoi,0.0266596
+670037189829525505,Nameless,5.0,10.0,unclassified,Doormat,0.0507279
+670003130994700288,Raphael,10.0,10.0,unclassified,Beagle,0.375313
+669993076832759809,Zoey,9.0,10.0,unclassified,Toy Poodle,0.0865016
+669972011175813120,Nameless,10.0,10.0,unclassified,Fur Coat,0.00536817
+669970042633789440,Julio,10.0,10.0,unclassified,Miniature Pinscher,0.734744
+669942763794931712,Andru,11.0,10.0,unclassified,Vizsla,0.743216
+669926384437997569,Nameless,12.0,10.0,unclassified,Pomeranian,0.984231
+669923323644657664,Alphred,10.0,10.0,unclassified,Wing,0.0801485
+669753178989142016,Chester,10.0,10.0,unclassified,Pembroke,0.8584940000000001
+669749430875258880,Clarence,8.0,10.0,unclassified,Paper Towel,0.105664
+669683899023405056,Kloey,10.0,10.0,unclassified,Pomeranian,0.998275
+669682095984410625,Louie,9.0,10.0,unclassified,Bookcase,0.0825986
+669680153564442624,Shawwn,8.0,10.0,unclassified,Dalmatian,0.141257
+669661792646373376,Nameless,5.0,10.0,unclassified,Hamster,0.116374
+669625907762618368,Penny,12.0,10.0,unclassified,Golden Retriever,0.0554081
+669603084620980224,Nameless,10.0,10.0,unclassified,Maltese Dog,0.659619
+669597912108789760,Skye,10.0,10.0,unclassified,Eskimo Dog,0.595665
+669583744538451968,Nameless,6.0,10.0,unclassified,Plunger,0.0720994
+669573570759163904,Linda,10.0,10.0,unclassified,West Highland White Terrier,0.946828
+669571471778410496,Keith,7.0,10.0,unclassified,Beach Wagon,0.0154005
+669567591774625800,Kollin,9.0,10.0,unclassified,Chihuahua,0.980511
+669564461267722241,Alfredo,10.0,10.0,unclassified,Toy Poodle,0.623685
+669393256313184256,Ronduh,10.0,10.0,unclassified,Cocker Spaniel,0.3598429999999999
+669375718304980992,Billl,6.0,10.0,unclassified,Airedale,0.168762
+669371483794317312,Oliviér,10.0,10.0,unclassified,Brabancon Griffon,0.483268
+669367896104181761,Chip,10.0,10.0,unclassified,Basset,0.749394
+669363888236994561,Nameless,10.0,10.0,unclassified,Golden Retriever,0.539004
+669359674819481600,Saydee,11.0,10.0,unclassified,Labrador Retriever,0.367818
+669354382627049472,Dug,8.0,10.0,unclassified,Chihuahua,0.97399
+669353438988365824,Tessa,10.0,10.0,unclassified,Pembroke,0.2123429999999999
+669351434509529089,Sully,10.0,10.0,unclassified,Bulletproof Vest,0.00381188
+669328503091937280,Kirk,12.0,10.0,unclassified,Siberian Husky,0.424202
+669327207240699904,Nameless,13.0,10.0,unclassified,Golden Retriever,0.919584
+669324657376567296,Ralf,11.0,10.0,unclassified,Cardigan,0.131544
+669216679721873412,Clarq,8.0,10.0,unclassified,Golden Retriever,0.992758
+669214165781868544,Jaspers,10.0,10.0,unclassified,Minibus,0.068201
+669203728096960512,Samsom,9.0,10.0,unclassified,Pug,0.910452
+669037058363662336,Nameless,8.5,10.0,unclassified,Chihuahua,0.803528
+669015743032369152,Nameless,10.0,10.0,unclassified,Jersey,0.073911
+669006782128353280,Tucker,12.0,10.0,unclassified,Chihuahua,0.1271779999999999
+669000397445533696,Terrance,11.0,10.0,unclassified,Pembroke,0.82294
+668994913074286592,Nameless,5.0,10.0,unclassified,English Springer,0.0897633
+668992363537309700,Harrison,8.0,10.0,unclassified,Koala,0.0814193
+668989615043424256,Bernie,3.0,10.0,unclassified,Pug,0.917326
+668988183816871936,Nameless,7.0,10.0,unclassified,Llama,6.71787e-05
+668986018524233728,Ruby,9.0,10.0,unclassified,Chihuahua,0.00563972
+668981893510119424,Nameless,4.0,10.0,unclassified,Goldfish,0.0402269
+668979806671884288,Chaz,12.0,10.0,unclassified,Golden Retriever,0.608537
+668975677807423489,Jeremy,11.0,10.0,unclassified,Basset,0.605437
+668960084974809088,Jaycob,10.0,10.0,unclassified,Chesapeake Bay Retriever,0.165878
+668955713004314625,Leroi,10.0,10.0,unclassified,Cocker Spaniel,0.367492
+668932921458302977,Herald,9.0,10.0,unclassified,Standard Poodle,0.237638
+668902994700836864,Lambeau,11.0,10.0,unclassified,Brittany Spaniel,0.828425
+668892474547511297,Ruffles,11.0,10.0,unclassified,Kelpie,0.421979
+668872652652679168,Amélie,11.0,10.0,unclassified,Miniature Schnauzer,0.0355366
+668852170888998912,Bobb,11.0,10.0,unclassified,Golden Retriever,0.903529
+668826086256599040,Banditt,10.0,10.0,unclassified,Malinois,0.640185
+668815180734689280,Nameless,7.0,10.0,unclassified,Redbone,0.461172
+668779399630725120,Kevon,10.0,10.0,unclassified,Chesapeake Bay Retriever,0.285508
+668655139528511488,Winifred,11.0,10.0,unclassified,Beagle,0.31911
+668645506898350081,Nameless,11.0,10.0,unclassified,Balance Beam,0.0840756
+668643542311546881,Nameless,3.0,10.0,unclassified,Sandbar,0.0789834
+668641109086707712,Hanz,10.0,10.0,unclassified,Pug,0.146311
+668636665813057536,Nameless,10.0,10.0,unclassified,Komondor,0.999956
+668633411083464705,Churlie,10.0,10.0,unclassified,Pekinese,0.589011
+668631377374486528,Zeek,5.0,10.0,unclassified,Miniature Schnauzer,0.904549
+668627278264475648,Timofy,9.0,10.0,unclassified,French Bulldog,0.965403
+668625577880875008,Maks,10.0,10.0,unclassified,Groenendael,0.0544548
+668623201287675904,Jomathan,10.0,10.0,unclassified,Chihuahua,0.708163
+668620235289837568,Kallie,10.0,10.0,unclassified,Mouse,0.0272709
+668614819948453888,Nameless,7.0,10.0,unclassified,Crane,0.0847135
+668567822092664832,Marvin,11.0,10.0,unclassified,Shih-Tzu,0.985649
+668544745690562560,Nameless,10.0,10.0,unclassified,Panpipe,0.0215625999999999
+668542336805281792,Nameless,10.0,10.0,unclassified,American Staffordshire Terrier,0.2676949999999999
+668537837512433665,Spark,4.5,10.0,unclassified,Lakeland Terrier,0.372988
+668528771708952576,Gòrdón,12.0,10.0,unclassified,Labrador Retriever,0.1958349999999999
+668507509523615744,Chuk,10.0,10.0,unclassified,Basenji,0.0553793999999999
+668496999348633600,Jo,8.0,10.0,unclassified,Staffordshire Bullterrier,0.412879
+668484198282485761,Nameless,9.0,10.0,unclassified,Standard Poodle,0.587372
+668480044826800133,DayZ,11.0,10.0,unclassified,Labrador Retriever,0.0999648
+668466899341221888,Nameless,4.0,10.0,unclassified,Bassinet,0.0841735
+668297328638447616,Nameless,9.0,10.0,unclassified,Eskimo Dog,0.0327838
+668291999406125056,Nameless,10.0,10.0,unclassified,Badger,0.00068565
+668286279830867968,Rusty,11.0,10.0,unclassified,Golden Retriever,0.215944
+668274247790391296,Sophie,10.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.4063739999999999
+668268907921326080,Nameless,10.0,10.0,unclassified,Pembroke,0.48483
+668256321989451776,Jareld,13.0,10.0,unclassified,Pembroke,0.0944294
+668248472370458624,Bisquick,8.0,10.0,unclassified,Chihuahua,0.7345470000000001
+668237644992782336,Torque,10.0,10.0,unclassified,Chow,0.8093199999999999
+668226093875376128,Nameless,10.0,10.0,unclassified,French Horn,0.255182
+668221241640230912,Nameless,10.0,10.0,unclassified,Chow,0.395101
+668204964695683073,Ron,8.0,10.0,unclassified,Labrador Retriever,0.65518
+668190681446379520,Skittles,12.0,10.0,unclassified,Blenheim Spaniel,0.958402
+668171859951755264,Alfonso,7.0,10.0,unclassified,Chihuahua,0.664834
+668154635664932864,Nameless,9.0,10.0,unclassified,White Wolf,0.0809478
+668142349051129856,Nameless,2.0,10.0,unclassified,Wood Rabbit,0.0110149
+668113020489474048,Alfie,6.0,10.0,unclassified,Pembroke,0.548896
+667937095915278337,Nameless,3.0,10.0,unclassified,Band Aid,0.0599952
+667924896115245057,Jiminy,9.0,10.0,unclassified,Labrador Retriever,0.209051
+667915453470232577,Otis,10.0,10.0,unclassified,Boxer,0.196655
+667911425562669056,Nameless,5.0,10.0,unclassified,Triceratops,0.0853169
+667902449697558528,Cleopatricia,9.0,10.0,unclassified,Norwegian Elkhound,0.298881
+667886921285246976,Erik,11.0,10.0,unclassified,Pomeranian,0.8004319999999999
+667885044254572545,Stu,10.0,10.0,unclassified,Malamute,0.0885297
+667878741721415682,Tedrick,2.0,10.0,unclassified,Miniature Pinscher,0.106003
+667873844930215936,Nameless,10.0,10.0,unclassified,African Chameleon,0.000128357
+667866724293877760,Shaggy,10.0,10.0,unclassified,Doormat,1.7401699999999998e-10
+667861340749471744,Cheryl,9.0,10.0,unclassified,Malamute,0.967275
+667832474953625600,Nameless,12.0,10.0,unclassified,Miniature Pinscher,0.2142
+667806454573760512,Filup,10.0,10.0,unclassified,Chihuahua,0.187155
+667801013445750784,Nameless,12.0,10.0,unclassified,Flat-Coated Retriever,0.508392
+667793409583771648,Nameless,8.0,10.0,unclassified,Dalmatian,0.5350729999999999
+667782464991965184,Nameless,9.0,10.0,unclassified,African Grey,0.0542474
+667773195014021121,Jessiga,8.0,10.0,unclassified,West Highland White Terrier,0.360465
+667766675769573376,Calvin,9.0,10.0,unclassified,Jeep,0.0127726
+667728196545200128,Olive,11.0,10.0,unclassified,Kuvasz,0.360159
+667724302356258817,Nameless,7.0,10.0,unclassified,Ram,0.0746732
+667550904950915073,Nameless,12.0,10.0,unclassified,Vizsla,8.10632e-05
+667550882905632768,Nameless,5.0,10.0,unclassified,Oscilloscope,0.000141736
+667549055577362432,Nameless,1.0,10.0,unclassified,Lampshade,0.00190123
+667546741521195010,George,9.0,10.0,unclassified,Toy Poodle,0.787424
+667544320556335104,Kial,10.0,10.0,unclassified,Pomeranian,0.412893
+667538891197542400,Klint,9.0,10.0,unclassified,Yorkshire Terrier,0.618957
+667534815156183040,Frank,8.0,10.0,unclassified,Pembroke,0.435254
+667530908589760512,Naphaniel,10.0,10.0,unclassified,Golden Retriever,0.633037
+667524857454854144,Nameless,12.0,10.0,unclassified,Chesapeake Bay Retriever,0.0881223999999999
+667517642048163840,Dook,8.0,10.0,unclassified,Italian Greyhound,0.125176
+667509364010450944,Nameless,12.0,10.0,unclassified,Beagle,0.636169
+667502640335572993,Hall,11.0,10.0,unclassified,Labrador Retriever,0.996709
+667495797102141441,Philippe,9.0,10.0,unclassified,Chihuahua,0.143957
+667491009379606528,Nameless,7.5,10.0,unclassified,Borzoi,0.852088
+667470559035432960,Kohl,11.0,10.0,unclassified,Toy Poodle,0.304175
+667455448082227200,Reese,7.0,10.0,unclassified,Tibetan Terrier,0.676376
+667453023279554560,Cupcake,11.0,10.0,unclassified,Labrador Retriever,0.8256700000000001
+667443425659232256,Nameless,6.0,10.0,unclassified,Hen,0.00525517
+667437278097252352,Nameless,10.0,10.0,unclassified,Badger,0.00096634
+667435689202614272,Nameless,12.0,10.0,unclassified,Rottweiler,0.999091
+667405339315146752,Biden,7.0,10.0,unclassified,Saint Bernard,0.381377
+667393430834667520,Fwed,8.0,10.0,unclassified,Papillon,0.557009
+667369227918143488,Nameless,10.0,10.0,unclassified,Christmas Stocking,0.0285675
+667211855547486208,Genevieve,9.0,10.0,unclassified,Golden Retriever,0.462556
+667200525029539841,Joshwa,11.0,10.0,unclassified,Siberian Husky,0.694904
+667192066997374976,Nameless,12.0,10.0,unclassified,Rottweiler,0.28364
+667188689915760640,Nameless,10.0,10.0,unclassified,Toilet Tissue,0.140703
+667182792070062081,Timison,10.0,10.0,unclassified,Golden Retriever,0.949892
+667177989038297088,Daryl,8.0,10.0,unclassified,Vizsla,0.2592489999999999
+667176164155375616,Nameless,4.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.318981
+667174963120574464,Clarence,9.0,10.0,unclassified,Toy Poodle,0.266437
+667171260800061440,Kenneth,10.0,10.0,unclassified,Giant Schnauzer,0.8412649999999999
+667165590075940865,Churlie,10.0,10.0,unclassified,Miniature Pinscher,0.140173
+667160273090932737,Bradlay,11.0,10.0,unclassified,Golden Retriever,0.471351
+667152164079423490,Pipsy,12.0,10.0,unclassified,Toy Poodle,0.535411
+667138269671505920,Nameless,10.0,10.0,unclassified,West Highland White Terrier,0.747713
+667119796878725120,Gabe,10.0,10.0,unclassified,Pembroke,0.741563
+667090893657276420,Clybe,7.0,10.0,unclassified,Chihuahua,0.959514
+667073648344346624,Dave,10.0,10.0,unclassified,Chihuahua,0.4836819999999999
+667065535570550784,Nameless,8.0,10.0,unclassified,Space Heater,0.042568
+667062181243039745,Keet,10.0,10.0,unclassified,Chesapeake Bay Retriever,0.825678
+667044094246576128,Nameless,12.0,10.0,unclassified,Golden Retriever,0.765266
+667012601033924608,Klevin,9.0,10.0,unclassified,Coyote,5.7350100000000005e-05
+666996132027977728,Carll,10.0,10.0,unclassified,Rottweiler,0.0624899
+666983947667116034,Pepe,11.0,10.0,unclassified,Wig,0.0345097
+666837028449972224,Nameless,3.0,10.0,unclassified,Common Iguana,0.0432553
+666835007768551424,Nameless,10.0,10.0,unclassified,Airedale,0.448459
+666826780179869698,Nameless,12.0,10.0,unclassified,Maltese Dog,0.359383
+666817836334096384,Jeph,9.0,10.0,unclassified,Miniature Schnauzer,0.496953
+666804364988780544,Jockson,8.0,10.0,unclassified,English Setter,0.328792
+666786068205871104,Nameless,2.0,10.0,unclassified,Acorn,2.6258e-05
+666781792255496192,Octaviath,10.0,10.0,unclassified,Italian Greyhound,0.618316
+666776908487630848,Josep,5.0,10.0,unclassified,Miniature Pinscher,0.167175
+666739327293083650,Lugan,10.0,10.0,unclassified,Miniature Poodle,0.546933
+666701168228331520,Johm,8.0,10.0,unclassified,Labrador Retriever,0.887707
+666691418707132416,Christoper,8.0,10.0,unclassified,German Shepherd,0.975401
+666649482315059201,Nameless,4.0,10.0,unclassified,Border Collie,0.4478029999999999
+666644823164719104,Jimothy,9.0,10.0,unclassified,Ibizan Hound,0.0443334
+666454714377183233,Kreggory,10.0,10.0,unclassified,Dalmatian,0.278954
+666447344410484738,Scout,9.0,10.0,unclassified,Curly-Coated Retriever,0.322084
+666437273139982337,Nameless,7.0,10.0,unclassified,Chihuahua,0.6718529999999999
+666435652385423360,Nameless,10.0,10.0,unclassified,Chesapeake Bay Retriever,0.18413
+666430724426358785,Nameless,6.0,10.0,unclassified,Irish Terrier,0.104109
+666428276349472768,Nameless,7.0,10.0,unclassified,Pembroke,0.371361
+666421158376562688,Nameless,12.0,10.0,unclassified,Blenheim Spaniel,0.906777
+666418789513326592,Walter,10.0,10.0,unclassified,Toy Terrier,0.14968
+666411507551481857,Nameless,2.0,10.0,unclassified,Gar,0.189945
+666407126856765440,Nameless,7.0,10.0,unclassified,Black-And-Tan Coonhound,0.529139
+666396247373291520,Nameless,9.0,10.0,unclassified,Chihuahua,0.978108
+666373753744588802,Nameless,11.0,10.0,unclassified,Soft-Coated Wheaten Terrier,0.326467
+666362758909284353,Nameless,6.0,10.0,unclassified,Hamster,0.000460863
+666353288456101888,Nameless,8.0,10.0,unclassified,Malamute,0.3368739999999999
+666345417576210432,Nameless,10.0,10.0,unclassified,Golden Retriever,0.8587440000000001
+666337882303524864,Nameless,9.0,10.0,unclassified,Newfoundland,0.278407
+666293911632134144,Nameless,3.0,10.0,unclassified,Great Grey Owl,0.0132072
+666287406224695296,Nameless,9.0,10.0,unclassified,Maltese Dog,0.8575309999999999
+666273097616637952,Nameless,11.0,10.0,unclassified,Italian Greyhound,0.176053
+666268910803644416,Nameless,10.0,10.0,unclassified,Bookcase,0.0794797
+666104133288665088,Nameless,1.0,10.0,unclassified,Partridge,5.20658e-05
+666102155909144576,Nameless,11.0,10.0,unclassified,English Setter,0.298617
+666099513787052032,Nameless,8.0,10.0,unclassified,Lhasa,0.58233
+666094000022159362,Nameless,9.0,10.0,unclassified,Bloodhound,0.195217
+666082916733198337,Nameless,6.0,10.0,unclassified,Pug,0.489814
+666073100786774016,Nameless,10.0,10.0,unclassified,Walker Hound,0.260857
+666071193221509120,Nameless,9.0,10.0,unclassified,Gordon Setter,0.503672
+666063827256086533,Nameless,10.0,10.0,unclassified,Golden Retriever,0.77593
+666058600524156928,Nameless,8.0,10.0,unclassified,Miniature Poodle,0.201493
+666057090499244032,Nameless,9.0,10.0,unclassified,Golden Retriever,0.00795896
+666055525042405380,Nameless,10.0,10.0,unclassified,Chow,0.692517
+666051853826850816,Nameless,2.0,10.0,unclassified,Terrapin,0.0178852999999999
+666050758794694657,Nameless,10.0,10.0,unclassified,Bernese Mountain Dog,0.651137
+666049248165822465,Nameless,5.0,10.0,unclassified,Miniature Pinscher,0.560311
+666044226329800704,Nameless,6.0,10.0,unclassified,Rhodesian Ridgeback,0.408143
+666033412701032449,Nameless,9.0,10.0,unclassified,German Shepherd,0.596461
+666029285002620928,Nameless,7.0,10.0,unclassified,Redbone,0.506826
+666020888022790149,Nameless,8.0,10.0,unclassified,Welsh Springer Spaniel,0.465074
